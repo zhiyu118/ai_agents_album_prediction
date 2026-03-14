@@ -1,0 +1,158 @@
+{
+  "album_id": "005",
+  "metadata": {
+    "title": "A Momentary Lapse of Reason",
+    "artist": "Pink Floyd",
+    "release_year": 1987,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "pop rock",
+      "progressive rock",
+      "blues",
+      "art rock",
+      "british invasion",
+      "downtempo",
+      "hard rock",
+      "pop",
+      "experimental rock",
+      "stoner rock",
+      "alternative rock",
+      "jazz",
+      "country",
+      "trance",
+      "rock",
+      "space rock",
+      "experimental",
+      "soul",
+      "reggae",
+      "electronica",
+      "psychedelic rock",
+      "instrumental rock",
+      "symphonic rock"
+    ],
+    "description": " is the thirteenth studio album by the English > > band , released in the UK on 7 September 1987 by EMI and the following day in the US on Columbia. It was recorded primarily on guitarist  's converted houseboat, Astoria.  was the first  album recorded without founding member  , who departed in 1985. The production was marred by legal fights over the rights to the  , which were not resolved until several months after release. It also saw the return of keyboardist",
+    "listeners": 458752,
+    "playcount": 8358474
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Signs of Life",
+        "track_number": 1,
+        "id": "b13c887171543be03849d0cf90f6777a",
+        "key": "B",
+        "mode": "major",
+        "camelot": "1B",
+        "tempo": 117,
+        "duration": "4:22",
+        "energy": 30,
+        "danceability": 25,
+        "happiness": 6,
+        "acousticness": 11,
+        "instrumentalness": 22,
+        "liveness": 9,
+        "speechiness": 8,
+        "loudness": "-21 dB"
+      },
+      {
+        "track_name": "Learning to Fly",
+        "track_number": 2,
+        "id": "0d72b591afd2b35bced4efd489608b8f",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 167,
+        "duration": "4:52",
+        "energy": 56,
+        "danceability": 44,
+        "happiness": 48,
+        "acousticness": 25,
+        "instrumentalness": 3,
+        "liveness": 15,
+        "speechiness": 4,
+        "loudness": "-14 dB"
+      },
+      {
+        "track_name": "The Dogs of War",
+        "track_number": 3,
+        "id": "92f1c25bd88bd8c92dbbf4270b1a77e7",
+        "key": "F",
+        "mode": "major",
+        "camelot": "7B",
+        "tempo": 86,
+        "duration": "6:04",
+        "energy": 49,
+        "danceability": 23,
+        "happiness": 11,
+        "acousticness": 17,
+        "instrumentalness": 0,
+        "liveness": 87,
+        "speechiness": 6,
+        "loudness": "-12 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 30.67,
+        "min": 23,
+        "max": 44,
+        "range": 21,
+        "std": 11.59
+      },
+      "energy": {
+        "mean": 45,
+        "min": 30,
+        "max": 56,
+        "range": 26,
+        "std": 13.45
+      },
+      "acousticness": {
+        "mean": 17.67,
+        "min": 11,
+        "max": 25,
+        "range": 14,
+        "std": 7.02
+      },
+      "instrumentalness": {
+        "mean": 8.33,
+        "min": 0,
+        "max": 22,
+        "range": 22,
+        "std": 11.93
+      },
+      "speechiness": {
+        "mean": 6,
+        "min": 4,
+        "max": 8,
+        "range": 4,
+        "std": 2.0
+      },
+      "liveness": {
+        "mean": 37,
+        "min": 9,
+        "max": 87,
+        "range": 78,
+        "std": 43.41
+      },
+      "tempo": {
+        "mean": 123.33,
+        "min": 86,
+        "max": 167,
+        "range": 81,
+        "std": 40.87
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_005.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 8358474
+  },
+  "original_mbid": "07be1acd-fc37-47ae-b69d-40352dc1c4e2",
+  "url": "https://www.last.fm/music/Pink+Floyd/A+Momentary+Lapse+of+Reason"
+}

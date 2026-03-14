@@ -1,0 +1,148 @@
+{
+  "album_id": "034",
+  "metadata": {
+    "title": "Charmed & Strange",
+    "artist": "Yoav",
+    "release_year": 2008,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "pop rock",
+      "folktronica",
+      "house",
+      "pop",
+      "alternative rock",
+      "folk rock",
+      "trance",
+      "indietronica",
+      "soul",
+      "easy listening",
+      "electronica",
+      "trip hop",
+      "disco"
+    ],
+    "description": ", born   on October 15, 1979 in Tel Aviv, Israel, is a > of -Romanian descent, raised in  Africa. His debut album Charmed and Strange was released in > 2008. 's > features his own vocals and accompaniment by an > , which he uses to create >-style  with his hands. He has also released two singles, \" Thing\" and \"> Lie\", the former having some success and charting in countries around Europe. His song \"Adore Adore\" was also featured in \"Redwood\", an episode of The Mentalist. He also had a version of",
+    "listeners": 84000,
+    "playcount": 1277024
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Adore Adore",
+        "track_number": 1,
+        "id": "982dbb1370763e406f01ccf1dc0586e5",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 130,
+        "duration": "5:37",
+        "energy": 55,
+        "danceability": 93,
+        "happiness": 71,
+        "acousticness": 62,
+        "instrumentalness": 0,
+        "liveness": 8,
+        "speechiness": 4,
+        "loudness": "-9 dB"
+      },
+      {
+        "track_name": "Club Thing",
+        "track_number": 2,
+        "id": "7b9f70dbd76f9ff94ffa50e2ee1ef0d5",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 104,
+        "duration": "4:25",
+        "energy": 59,
+        "danceability": 85,
+        "happiness": 47,
+        "acousticness": 66,
+        "instrumentalness": 4,
+        "liveness": 11,
+        "speechiness": 5,
+        "loudness": "-12 dB"
+      },
+      {
+        "track_name": "Live",
+        "track_number": 3,
+        "id": "edc8531629e95e6cd91af0cc372dd90b",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 164,
+        "duration": "4:11",
+        "energy": 69,
+        "danceability": 53,
+        "happiness": 17,
+        "acousticness": 18,
+        "instrumentalness": 8,
+        "liveness": 8,
+        "speechiness": 21,
+        "loudness": "-7 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 77,
+        "min": 53,
+        "max": 93,
+        "range": 40,
+        "std": 21.17
+      },
+      "energy": {
+        "mean": 61,
+        "min": 55,
+        "max": 69,
+        "range": 14,
+        "std": 7.21
+      },
+      "acousticness": {
+        "mean": 48.67,
+        "min": 18,
+        "max": 66,
+        "range": 48,
+        "std": 26.63
+      },
+      "instrumentalness": {
+        "mean": 4,
+        "min": 0,
+        "max": 8,
+        "range": 8,
+        "std": 4.0
+      },
+      "speechiness": {
+        "mean": 10,
+        "min": 4,
+        "max": 21,
+        "range": 17,
+        "std": 9.54
+      },
+      "liveness": {
+        "mean": 9,
+        "min": 8,
+        "max": 11,
+        "range": 3,
+        "std": 1.73
+      },
+      "tempo": {
+        "mean": 132.67,
+        "min": 104,
+        "max": 164,
+        "range": 60,
+        "std": 30.09
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_034.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1277024
+  },
+  "original_mbid": "16ae79e0-4e2e-46ec-8494-c5df40c73d98",
+  "url": "https://www.last.fm/music/Yoav/Charmed+&+Strange"
+}

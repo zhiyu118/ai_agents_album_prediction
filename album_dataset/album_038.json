@@ -1,0 +1,139 @@
+{
+  "album_id": "038",
+  "metadata": {
+    "title": "Breakout",
+    "artist": "Miley Cyrus",
+    "release_year": 2008,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "ambient",
+      "rave",
+      "goregrind",
+      "country pop",
+      "indie rock",
+      "electropop",
+      "electronic rock",
+      "pop",
+      "deathcore",
+      "alternative rock",
+      "country",
+      "soft rock",
+      "gospel",
+      "soundtrack",
+      "power pop",
+      "soul",
+      "easy listening",
+      "teen pop",
+      "deathgrind",
+      "pop punk",
+      "disco",
+      "rock"
+    ],
+    "description": "\"\" is the second solo studio album by  . It was released under  Records on July 22, 2008 and is her follow up to her 3× Multi platinum debut solo album Meet Miley . It opened on the US Billboard Top 200 at #1 with 371,000 copies. To date, the album has sold more than 3 million copies worldwide.",
+    "listeners": 587127,
+    "playcount": 8499947
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Breakout",
+        "track_number": 1,
+        "id": "8e3a6b32b65f5dddb62e6e549a099ef6",
+        "key": "Ab",
+        "mode": "major",
+        "camelot": "4B",
+        "tempo": 130,
+        "duration": "2:43",
+        "energy": 45,
+        "danceability": 83,
+        "happiness": 69,
+        "acousticness": 10,
+        "instrumentalness": 0,
+        "liveness": 9,
+        "speechiness": 41,
+        "loudness": "-14 dB"
+      },
+      {
+        "track_name": "The Driveway",
+        "track_number": 3,
+        "id": "10e6e77fb2dd505736212e8e79e9ca67",
+        "key": "E",
+        "mode": "major",
+        "camelot": "12B",
+        "tempo": 165,
+        "duration": "3:43",
+        "energy": 87,
+        "danceability": 43,
+        "happiness": 55,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 10,
+        "speechiness": 5,
+        "loudness": "-4 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 63,
+        "min": 43,
+        "max": 83,
+        "range": 40,
+        "std": 28.28
+      },
+      "energy": {
+        "mean": 66,
+        "min": 45,
+        "max": 87,
+        "range": 42,
+        "std": 29.7
+      },
+      "acousticness": {
+        "mean": 6,
+        "min": 2,
+        "max": 10,
+        "range": 8,
+        "std": 5.66
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 23,
+        "min": 5,
+        "max": 41,
+        "range": 36,
+        "std": 25.46
+      },
+      "liveness": {
+        "mean": 9.5,
+        "min": 9,
+        "max": 10,
+        "range": 1,
+        "std": 0.71
+      },
+      "tempo": {
+        "mean": 147.5,
+        "min": 130,
+        "max": 165,
+        "range": 35,
+        "std": 24.75
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_038.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 8499947
+  },
+  "original_mbid": "15cab300-6cca-4321-a71e-ec5d7186a384",
+  "url": "https://www.last.fm/music/Miley+Cyrus/Breakout"
+}

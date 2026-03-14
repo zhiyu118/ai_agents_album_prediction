@@ -1,0 +1,154 @@
+{
+  "album_id": "041",
+  "metadata": {
+    "title": "Darkbloom",
+    "artist": "Grimes",
+    "release_year": 2011,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "indie pop",
+      "downtempo",
+      "electropop",
+      "experimental pop",
+      "pop",
+      "new rave",
+      "witch house",
+      "art pop",
+      "industrial",
+      "gospel",
+      "experimental",
+      "indietronica",
+      "psychedelic pop",
+      "electronica",
+      "lounge",
+      "synthpop",
+      "dark ambient",
+      "trip hop",
+      "dream pop"
+    ],
+    "description": " is a split EP by Canadian musicians  and '. It was released on April 18, 2011 as a joint release through ' and 'Eon's respective labels, Arbutus Records and Hippos in Tanks.  was conceived together by  and ' but recorded separately.",
+    "listeners": 229949,
+    "playcount": 2980873
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Orphia",
+        "track_number": 1,
+        "id": "fa394e60b2a8ce8613ea5a8d4a3d4ae9",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 112,
+        "duration": "2:55",
+        "energy": 6,
+        "danceability": 52,
+        "happiness": 29,
+        "acousticness": 98,
+        "instrumentalness": 0,
+        "liveness": 30,
+        "speechiness": 6,
+        "loudness": "-16 dB"
+      },
+      {
+        "track_name": "Vanessa",
+        "track_number": 2,
+        "id": "5b708f99127a0282492b77a32d8b2910",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 120,
+        "duration": "5:24",
+        "energy": 65,
+        "danceability": 72,
+        "happiness": 16,
+        "acousticness": 15,
+        "instrumentalness": 62,
+        "liveness": 12,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Crystal Ball",
+        "track_number": 3,
+        "id": "4255457b4b17e912c1cd1bfaef92de98",
+        "key": "A",
+        "mode": "minor",
+        "camelot": "8A",
+        "tempo": 133,
+        "duration": "3:16",
+        "energy": 74,
+        "danceability": 69,
+        "happiness": 40,
+        "acousticness": 10,
+        "instrumentalness": 30,
+        "liveness": 10,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 64.33,
+        "min": 52,
+        "max": 72,
+        "range": 20,
+        "std": 10.79
+      },
+      "energy": {
+        "mean": 48.33,
+        "min": 6,
+        "max": 74,
+        "range": 68,
+        "std": 36.94
+      },
+      "acousticness": {
+        "mean": 41,
+        "min": 10,
+        "max": 98,
+        "range": 88,
+        "std": 49.43
+      },
+      "instrumentalness": {
+        "mean": 30.67,
+        "min": 0,
+        "max": 62,
+        "range": 62,
+        "std": 31.01
+      },
+      "speechiness": {
+        "mean": 4,
+        "min": 3,
+        "max": 6,
+        "range": 3,
+        "std": 1.73
+      },
+      "liveness": {
+        "mean": 17.33,
+        "min": 10,
+        "max": 30,
+        "range": 20,
+        "std": 11.02
+      },
+      "tempo": {
+        "mean": 121.67,
+        "min": 112,
+        "max": 133,
+        "range": 21,
+        "std": 10.6
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_041.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 2980873
+  },
+  "original_mbid": "099495e2-6f2d-42ee-96d7-98ac68ac2675",
+  "url": "https://www.last.fm/music/Grimes/Darkbloom"
+}

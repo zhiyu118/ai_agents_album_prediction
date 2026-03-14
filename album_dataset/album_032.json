@@ -1,0 +1,142 @@
+{
+  "album_id": "032",
+  "metadata": {
+    "title": "Evolution",
+    "artist": "Disturbed",
+    "release_year": 2018,
+    "genre": "alternative metal",
+    "all_genres": [
+      "alternative metal",
+      "hard rock",
+      "industrial rock",
+      "nu metal",
+      "industrial",
+      "metal",
+      "rock",
+      "industrial metal"
+    ],
+    "description": " is the seventh studio album by  > band . It was released on October 19, 2018, by Reprise Records. The album's first single, \"Are You Ready\", was released before the album in August 2018, while the second single, \"A Reason to Fight\", was released a month later. The third single, \"No More\", was released on June 2, 2019.\n features more ballads and > tracks compared to previous albums by the band. It debuted at number four on the Billboard 200, making it 's sixth straight top 5 album. It is the ban",
+    "listeners": 82229,
+    "playcount": 931769
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Are You Ready",
+        "track_number": 1,
+        "id": "f587e10c4e40211b10e11e657f27a5bc",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 200,
+        "duration": "4:22",
+        "energy": 98,
+        "danceability": 39,
+        "happiness": 52,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 27,
+        "speechiness": 11,
+        "loudness": "-2 dB"
+      },
+      {
+        "track_name": "No More",
+        "track_number": 2,
+        "id": "426f1990c176b8373877730ee2e542cc",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 101,
+        "duration": "3:53",
+        "energy": 99,
+        "danceability": 53,
+        "happiness": 52,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 22,
+        "speechiness": 12,
+        "loudness": "-2 dB"
+      },
+      {
+        "track_name": "A Reason to Fight",
+        "track_number": 3,
+        "id": "27f07bdce479f2979e4b597e97a6bad4",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 75,
+        "duration": "4:44",
+        "energy": 57,
+        "danceability": 59,
+        "happiness": 26,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 13,
+        "speechiness": 2,
+        "loudness": "-6 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 50.33,
+        "min": 39,
+        "max": 59,
+        "range": 20,
+        "std": 10.26
+      },
+      "energy": {
+        "mean": 84.67,
+        "min": 57,
+        "max": 99,
+        "range": 42,
+        "std": 23.97
+      },
+      "acousticness": {
+        "mean": 0.67,
+        "min": 0,
+        "max": 2,
+        "range": 2,
+        "std": 1.15
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 8.33,
+        "min": 2,
+        "max": 12,
+        "range": 10,
+        "std": 5.51
+      },
+      "liveness": {
+        "mean": 20.67,
+        "min": 13,
+        "max": 27,
+        "range": 14,
+        "std": 7.09
+      },
+      "tempo": {
+        "mean": 125.33,
+        "min": 75,
+        "max": 200,
+        "range": 125,
+        "std": 65.96
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_032.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 931769
+  },
+  "original_mbid": "1305f7dc-7ed7-4af4-b8b1-1c75ad9227b1",
+  "url": "https://www.last.fm/music/Disturbed/Evolution"
+}

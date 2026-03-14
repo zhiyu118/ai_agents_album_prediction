@@ -1,0 +1,143 @@
+{
+  "album_id": "007",
+  "metadata": {
+    "title": "Live 1969",
+    "artist": "Simon & Garfunkel",
+    "release_year": 2008,
+    "genre": "pop folk",
+    "all_genres": [
+      "pop folk",
+      "downtempo",
+      "country",
+      "folk rock",
+      "pop",
+      "folk",
+      "folk pop",
+      "rock",
+      "easy listening"
+    ],
+    "description": " is the fourth live album by Simon & nkel, released through Columbia Records. It consists of live recordings captured on the duo's final   tour, prior to the release of their Bridge over Troubled  album. Fifteen of the album's seventeen tracks are previously unreleased, with the exceptions being the live versions of \"For Emily, Whenever I May Find Her\" and \"'s Song\", both of which initially appeared on Simon & nkel's 1972 Greatest Hits album.  saw initial release as a Starbucks exclusive on Marc",
+    "listeners": 74254,
+    "playcount": 777304
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Homeward Bound",
+        "track_number": 1,
+        "id": "9a65bbc86e8b562abf20fbdff8aeb36e",
+        "key": "Eb",
+        "mode": "major",
+        "camelot": "5B",
+        "tempo": 93,
+        "duration": "2:30",
+        "energy": 38,
+        "danceability": 49,
+        "happiness": 53,
+        "acousticness": 83,
+        "instrumentalness": 0,
+        "liveness": 10,
+        "speechiness": 3,
+        "loudness": "-12 dB"
+      },
+      {
+        "track_name": "At the Zoo",
+        "track_number": 2,
+        "id": "cb716b269be8a04b5e464ae7c609f513",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 85,
+        "duration": "2:22",
+        "energy": 55,
+        "danceability": 53,
+        "happiness": 65,
+        "acousticness": 43,
+        "instrumentalness": 0,
+        "liveness": 28,
+        "speechiness": 5,
+        "loudness": "-12 dB"
+      },
+      {
+        "track_name": "The 59th Street Bridge Song (Feelin' Groovy)",
+        "track_number": 3,
+        "id": "7c7d52b4a005c2f7dcc6ea407874feb0",
+        "key": "C",
+        "mode": "minor",
+        "camelot": "5A",
+        "tempo": 76,
+        "duration": "1:47",
+        "energy": 43,
+        "danceability": 47,
+        "happiness": 58,
+        "acousticness": 56,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 4,
+        "loudness": "-13 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 49.67,
+        "min": 47,
+        "max": 53,
+        "range": 6,
+        "std": 3.06
+      },
+      "energy": {
+        "mean": 45.33,
+        "min": 38,
+        "max": 55,
+        "range": 17,
+        "std": 8.74
+      },
+      "acousticness": {
+        "mean": 60.67,
+        "min": 43,
+        "max": 83,
+        "range": 40,
+        "std": 20.4
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 4,
+        "min": 3,
+        "max": 5,
+        "range": 2,
+        "std": 1.0
+      },
+      "liveness": {
+        "mean": 15,
+        "min": 7,
+        "max": 28,
+        "range": 21,
+        "std": 11.36
+      },
+      "tempo": {
+        "mean": 84.67,
+        "min": 76,
+        "max": 93,
+        "range": 17,
+        "std": 8.5
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_007.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 777304
+  },
+  "original_mbid": "6e6154ce-3305-4146-a659-4dfcd1111762",
+  "url": "https://www.last.fm/music/Simon+&+Garfunkel/Live+1969"
+}

@@ -1,0 +1,164 @@
+{
+  "album_id": "061",
+  "metadata": {
+    "title": "The Stranger (Legacy Edition)",
+    "artist": "Billy Joel",
+    "release_year": 1977,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "ambient",
+      "accordion",
+      "blues rock",
+      "progressive rock",
+      "blues",
+      "folk",
+      "jazz fusion",
+      "rock and roll",
+      "art rock",
+      "latin rock",
+      "house",
+      "pop",
+      "folk pop",
+      "classical",
+      "jazz",
+      "soft rock",
+      "gospel",
+      "new wave",
+      "soundtrack",
+      "funk rock",
+      "jazz rock",
+      "soul",
+      "easy listening",
+      "smooth jazz",
+      "opera",
+      "swing",
+      "disco",
+      "funk",
+      "rock"
+    ],
+    "description": "The Stranger is the fifth studio album by  >  , released on September 29, 1977, by Columbia Records. While his four previous albums had been moderately successful, The Stranger became 's true critical and commercial breakthrough, spending six weeks at #2 on the U.S. album charts. Considered his magnum opus, it remains his best-selling non-compilation album to date, and was ranked number 70 on Rolling Stone's list of the 500 greatest albums of all time.",
+    "listeners": 730730,
+    "playcount": 10654922
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Movin' Out (Anthony's Song)",
+        "track_number": 1,
+        "id": "ae4cd92eba63cf3b2085233480c61e3d",
+        "key": "D",
+        "mode": "minor",
+        "camelot": "7A",
+        "tempo": 134,
+        "duration": "3:31",
+        "energy": 88,
+        "danceability": 66,
+        "happiness": 90,
+        "acousticness": 47,
+        "instrumentalness": 0,
+        "liveness": 6,
+        "speechiness": 3,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "The Stranger",
+        "track_number": 2,
+        "id": "601572e9c4025159190c4d696898b9e2",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 92,
+        "duration": "5:11",
+        "energy": 88,
+        "danceability": 66,
+        "happiness": 22,
+        "acousticness": 17,
+        "instrumentalness": 0,
+        "liveness": 8,
+        "speechiness": 8,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Just the Way You Are",
+        "track_number": 3,
+        "id": "5fa5cb68340ed18d0ee6717e98a57d64",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 139,
+        "duration": "4:51",
+        "energy": 45,
+        "danceability": 59,
+        "happiness": 51,
+        "acousticness": 70,
+        "instrumentalness": 0,
+        "liveness": 13,
+        "speechiness": 4,
+        "loudness": "-9 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 63.67,
+        "min": 59,
+        "max": 66,
+        "range": 7,
+        "std": 4.04
+      },
+      "energy": {
+        "mean": 73.67,
+        "min": 45,
+        "max": 88,
+        "range": 43,
+        "std": 24.83
+      },
+      "acousticness": {
+        "mean": 44.67,
+        "min": 17,
+        "max": 70,
+        "range": 53,
+        "std": 26.58
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 5,
+        "min": 3,
+        "max": 8,
+        "range": 5,
+        "std": 2.65
+      },
+      "liveness": {
+        "mean": 9,
+        "min": 6,
+        "max": 13,
+        "range": 7,
+        "std": 3.61
+      },
+      "tempo": {
+        "mean": 121.67,
+        "min": 92,
+        "max": 139,
+        "range": 47,
+        "std": 25.81
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_061.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 10654922
+  },
+  "original_mbid": "7c41cfe0-8901-4d97-a2f2-59749d9b7786",
+  "url": "https://www.last.fm/music/Billy+Joel/The+Stranger+(Legacy+Edition)"
+}

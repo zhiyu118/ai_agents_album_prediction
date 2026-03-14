@@ -1,0 +1,162 @@
+{
+  "album_id": "052",
+  "metadata": {
+    "title": "Bedtime Stories",
+    "artist": "Madonna",
+    "release_year": 1994,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "ambient",
+      "quiet storm",
+      "blues",
+      "techno",
+      "vocal house",
+      "downtempo",
+      "electropop",
+      "house",
+      "pop",
+      "acid jazz",
+      "trance",
+      "new wave",
+      "experimental",
+      "tech house",
+      "soul",
+      "easy listening",
+      "electronica",
+      "lounge",
+      "synthpop",
+      "alternative dance",
+      "trip hop",
+      "deep house",
+      "swing",
+      "electro",
+      "disco",
+      "rock",
+      "dream pop"
+    ],
+    "description": " is the sixth studio album by   . It was released on October 25, 1994, by Maverick Records.  collaborated with  , ,  \">\" , and   in order to move into more mainstream . The success of the > single \"I'll Remember\" in 1994 marked the beginning of this transformation and  used  to continue it. Like its predecessor , the album explores lyrical themes of love, sorrow, and romance, but with a toned-down, less sexual approach. Critics described the album as \"autobiographical\", as the song \"Human \" addr",
+    "listeners": 243945,
+    "playcount": 5736828
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Survival",
+        "track_number": 1,
+        "id": "ef053706413352d454566cb6872078dc",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 93,
+        "duration": "3:03",
+        "energy": 74,
+        "danceability": 80,
+        "happiness": 93,
+        "acousticness": 11,
+        "instrumentalness": 0,
+        "liveness": 56,
+        "speechiness": 4,
+        "loudness": "-4 dB"
+      },
+      {
+        "track_name": "Secret",
+        "track_number": 2,
+        "id": "fd9d402ff78132eccc6036497c32e8c3",
+        "key": "C#",
+        "mode": "major",
+        "camelot": "3B",
+        "tempo": 100,
+        "duration": "5:05",
+        "energy": 66,
+        "danceability": 81,
+        "happiness": 46,
+        "acousticness": 10,
+        "instrumentalness": 0,
+        "liveness": 15,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "I'd Rather Be Your Lover",
+        "track_number": 3,
+        "id": "58ec1fed98e161237053aa5b4dc9d898",
+        "key": "B",
+        "mode": "major",
+        "camelot": "1B",
+        "tempo": 92,
+        "duration": "4:40",
+        "energy": 76,
+        "danceability": 79,
+        "happiness": 72,
+        "acousticness": 22,
+        "instrumentalness": 0,
+        "liveness": 11,
+        "speechiness": 9,
+        "loudness": "-7 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 80,
+        "min": 79,
+        "max": 81,
+        "range": 2,
+        "std": 1.0
+      },
+      "energy": {
+        "mean": 72,
+        "min": 66,
+        "max": 76,
+        "range": 10,
+        "std": 5.29
+      },
+      "acousticness": {
+        "mean": 14.33,
+        "min": 10,
+        "max": 22,
+        "range": 12,
+        "std": 6.66
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 5.33,
+        "min": 3,
+        "max": 9,
+        "range": 6,
+        "std": 3.21
+      },
+      "liveness": {
+        "mean": 27.33,
+        "min": 11,
+        "max": 56,
+        "range": 45,
+        "std": 24.91
+      },
+      "tempo": {
+        "mean": 95,
+        "min": 92,
+        "max": 100,
+        "range": 8,
+        "std": 4.36
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_052.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 5736828
+  },
+  "original_mbid": "0de00121-08f5-4e38-8bee-a7bc46f0a007",
+  "url": "https://www.last.fm/music/Madonna/Bedtime+Stories"
+}

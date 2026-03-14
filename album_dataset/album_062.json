@@ -1,0 +1,172 @@
+{
+  "album_id": "062",
+  "metadata": {
+    "title": "Aerial",
+    "artist": "Kate Bush",
+    "release_year": 2005,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "pop rock",
+      "britpop",
+      "progressive rock",
+      "folk",
+      "blues",
+      "baroque pop",
+      "indie pop",
+      "jazz fusion",
+      "celtic",
+      "art rock",
+      "indie rock",
+      "downtempo",
+      "pop",
+      "experimental rock",
+      "chanson",
+      "chamber pop",
+      "pop folk",
+      "alternative rock",
+      "jazz",
+      "soft rock",
+      "medieval",
+      "baroque",
+      "art pop",
+      "new wave",
+      "glitch",
+      "experimental",
+      "jazz rock",
+      "easy listening",
+      "lullaby",
+      "electronica",
+      "lounge",
+      "psychedelic rock",
+      "symphonic rock",
+      "trip hop",
+      "disco",
+      "rock",
+      "dream pop"
+    ],
+    "description": " is the eighth album by the English > and musician  , released as double album in 2005, twelve years after her 1993 album The Red Shoes. The second disc, subtitled A Sky of Honey, consists of a single piece of > revelling in the experience of outdoor adventures on a single summer day, beginning in the morning and ending twenty-four hours later with the next sunrise.  is 's first double album, and was released after a twelve-year absence from the > industry during which  devoted her time to famil",
+    "listeners": 180064,
+    "playcount": 2535010
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "King of the Mountain",
+        "track_number": 1,
+        "id": "1da0db50cf8bfa293721cd4db0300eb8",
+        "key": "Bb",
+        "mode": "major",
+        "camelot": "6B",
+        "tempo": 75,
+        "duration": "4:53",
+        "energy": 41,
+        "danceability": 58,
+        "happiness": 55,
+        "acousticness": 25,
+        "instrumentalness": 2,
+        "liveness": 11,
+        "speechiness": 3,
+        "loudness": "-15 dB"
+      },
+      {
+        "track_name": "𝜋",
+        "track_number": 2,
+        "id": "0068c418739fb80f3f864c378c7e5a01",
+        "key": "C#",
+        "mode": "major",
+        "camelot": "3B",
+        "tempo": 125,
+        "duration": "4:29",
+        "energy": 39,
+        "danceability": 48,
+        "happiness": 52,
+        "acousticness": 37,
+        "instrumentalness": 5,
+        "liveness": 12,
+        "speechiness": 3,
+        "loudness": "-11 dB"
+      },
+      {
+        "track_name": "Bertie",
+        "track_number": 3,
+        "id": "31db4b9bb34cc337f2b0bac2aaedb39d",
+        "key": "C#",
+        "mode": "minor",
+        "camelot": "12A",
+        "tempo": 116,
+        "duration": "4:19",
+        "energy": 20,
+        "danceability": 43,
+        "happiness": 37,
+        "acousticness": 91,
+        "instrumentalness": 0,
+        "liveness": 13,
+        "speechiness": 4,
+        "loudness": "-18 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 49.67,
+        "min": 43,
+        "max": 58,
+        "range": 15,
+        "std": 7.64
+      },
+      "energy": {
+        "mean": 33.33,
+        "min": 20,
+        "max": 41,
+        "range": 21,
+        "std": 11.59
+      },
+      "acousticness": {
+        "mean": 51,
+        "min": 25,
+        "max": 91,
+        "range": 66,
+        "std": 35.16
+      },
+      "instrumentalness": {
+        "mean": 2.33,
+        "min": 0,
+        "max": 5,
+        "range": 5,
+        "std": 2.52
+      },
+      "speechiness": {
+        "mean": 3.33,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 12,
+        "min": 11,
+        "max": 13,
+        "range": 2,
+        "std": 1.0
+      },
+      "tempo": {
+        "mean": 105.33,
+        "min": 75,
+        "max": 125,
+        "range": 50,
+        "std": 26.65
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_062.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 2535010
+  },
+  "original_mbid": "0884c200-b03f-45fe-a211-7ca27ed54ff4",
+  "url": "https://www.last.fm/music/Kate+Bush/Aerial"
+}

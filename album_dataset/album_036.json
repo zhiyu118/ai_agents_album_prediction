@@ -1,0 +1,126 @@
+{
+  "album_id": "036",
+  "metadata": {
+    "title": "Sleeping With The Past (Remastered with bonus tracks)",
+    "artist": "Elton John",
+    "release_year": 1989,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "soft rock",
+      "britpop",
+      "synthpop",
+      "soul",
+      "pop",
+      "rumba",
+      "rock",
+      "easy listening",
+      "jazz fusion"
+    ],
+    "description": "Sleeping with the Past is the 22nd studio album by English musician  , released on 29 August 1989. It is his best-selling album in Denmark (where it was recorded) and is dedicated to his longtime  partner  . The album features \"Sacrifice\" and \" Hands\", which were issued as a double A-side and became 's first solo number-one single in his home > of the UK. The single's success helped the album also hit number one there, his first since 1974's  's Greatest Hits. It also became his first platinum a",
+    "listeners": 139063,
+    "playcount": 724321
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Durban Deep",
+        "track_number": 1,
+        "id": "af730a27835b77458d7b96ce40d1fa82",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 88,
+        "duration": "3:05",
+        "energy": 71,
+        "danceability": 72,
+        "happiness": 73,
+        "acousticness": 50,
+        "instrumentalness": 0,
+        "liveness": 11,
+        "speechiness": 40,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Whispers",
+        "track_number": 3,
+        "id": "42d62c6be960c4e7a5e41745add7f518",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 99,
+        "duration": "4:54",
+        "energy": 67,
+        "danceability": 90,
+        "happiness": 61,
+        "acousticness": 5,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 33,
+        "loudness": "-5 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 81,
+        "min": 72,
+        "max": 90,
+        "range": 18,
+        "std": 12.73
+      },
+      "energy": {
+        "mean": 69,
+        "min": 67,
+        "max": 71,
+        "range": 4,
+        "std": 2.83
+      },
+      "acousticness": {
+        "mean": 27.5,
+        "min": 5,
+        "max": 50,
+        "range": 45,
+        "std": 31.82
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 36.5,
+        "min": 33,
+        "max": 40,
+        "range": 7,
+        "std": 4.95
+      },
+      "liveness": {
+        "mean": 9,
+        "min": 7,
+        "max": 11,
+        "range": 4,
+        "std": 2.83
+      },
+      "tempo": {
+        "mean": 93.5,
+        "min": 88,
+        "max": 99,
+        "range": 11,
+        "std": 7.78
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": null,
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 724321
+  },
+  "original_mbid": "e259d431-567d-4a8a-ad19-767089cbb45c",
+  "url": "https://www.last.fm/music/Elton+John/Sleeping+With+The+Past+(Remastered+with+bonus+tracks)"
+}

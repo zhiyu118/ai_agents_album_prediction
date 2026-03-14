@@ -1,0 +1,148 @@
+{
+  "album_id": "018",
+  "metadata": {
+    "title": "No Angel",
+    "artist": "Dido",
+    "release_year": 1999,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "pop rock",
+      "britpop",
+      "punk",
+      "folk",
+      "blues",
+      "rumba",
+      "indie pop",
+      "indie rock",
+      "hip hop",
+      "downtempo",
+      "house",
+      "pop",
+      "emo",
+      "alternative rock",
+      "jazz",
+      "soft rock",
+      "vocal jazz",
+      "folk rock",
+      "dub",
+      "new wave",
+      "soundtrack",
+      "trance",
+      "soul",
+      "easy listening",
+      "smooth jazz",
+      "electronica",
+      "lounge",
+      "trip hop",
+      "electro",
+      "disco",
+      "rock"
+    ],
+    "description": " is 's debut album. Originally released in 1999, it found a > audience in 2001, and according to her official web site it went on to achieve sales in excess of over fifteen million copies worldwide. The success of  was spurred on by  sampling 's track, \"Thank You\" on \"Stan\", a track from his The Marshall Mathers LP album, released in 2000. The Marshall Mathers LP reached #1 on the US and Canadian charts, and  appeared in the > video for \"Stan\", which was the third single from the album, playing ",
+    "listeners": 1328230,
+    "playcount": 14638967
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Here with Me",
+        "track_number": 1,
+        "id": "d20ea99b631f19875b24aaa9c0b6a5c8",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 83,
+        "duration": "4:15",
+        "energy": 58,
+        "danceability": 56,
+        "happiness": 33,
+        "acousticness": 11,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Don't Think of Me",
+        "track_number": 3,
+        "id": "9411d256e3ac37d21b494d8b53d7c68b",
+        "key": "G#",
+        "mode": "minor",
+        "camelot": "1A",
+        "tempo": 94,
+        "duration": "4:32",
+        "energy": 61,
+        "danceability": 51,
+        "happiness": 21,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 9,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 53.5,
+        "min": 51,
+        "max": 56,
+        "range": 5,
+        "std": 3.54
+      },
+      "energy": {
+        "mean": 59.5,
+        "min": 58,
+        "max": 61,
+        "range": 3,
+        "std": 2.12
+      },
+      "acousticness": {
+        "mean": 5.5,
+        "min": 0,
+        "max": 11,
+        "range": 11,
+        "std": 7.78
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3,
+        "min": 3,
+        "max": 3,
+        "range": 0,
+        "std": 0.0
+      },
+      "liveness": {
+        "mean": 8,
+        "min": 7,
+        "max": 9,
+        "range": 2,
+        "std": 1.41
+      },
+      "tempo": {
+        "mean": 88.5,
+        "min": 83,
+        "max": 94,
+        "range": 11,
+        "std": 7.78
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_018.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 14638967
+  },
+  "original_mbid": "0c6e834f-ef5e-4c65-9b4e-b3db823d75bd",
+  "url": "https://www.last.fm/music/Dido/No+Angel"
+}

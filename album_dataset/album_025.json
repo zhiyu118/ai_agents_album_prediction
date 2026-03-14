@@ -1,0 +1,129 @@
+{
+  "album_id": "025",
+  "metadata": {
+    "title": "Dead Cities",
+    "artist": "The Future Sound of London",
+    "release_year": 1996,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "downtempo",
+      "house",
+      "electronic rock",
+      "jazz",
+      "industrial",
+      "glitch",
+      "breakbeat",
+      "experimental",
+      "soul",
+      "electronica",
+      "trip hop",
+      "electro"
+    ],
+    "description": " is a seminal 1996 album by > > > group . Though almost without any lyrics to speak of, most of the first half of the album (with the exception of \"Her Face Forms In Summertime\") is dark and full of well structured malevolence in that its songs combine synthetic sounds with samples to create an apocalyptic, dystopian , the second half of the disc is rather more relaxed however and FSOL combine the darkness with more of their now familiar complex, > techniques to create an odd, peaceful yet intri",
+    "listeners": 202506,
+    "playcount": 1941455
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Herd Killing",
+        "track_number": 1,
+        "id": "86e21801a36fa69c2200da34af27fda7",
+        "key": "Ab",
+        "mode": "major",
+        "camelot": "4B",
+        "tempo": 114,
+        "duration": "2:38",
+        "energy": 97,
+        "danceability": 66,
+        "happiness": 31,
+        "acousticness": 0,
+        "instrumentalness": 67,
+        "liveness": 17,
+        "speechiness": 6,
+        "loudness": "-12 dB"
+      },
+      {
+        "track_name": "Her Face Forms in Summertime",
+        "track_number": 3,
+        "id": "b8cdd839d575e123fd028574810b4366",
+        "key": "D",
+        "mode": "minor",
+        "camelot": "7A",
+        "tempo": 97,
+        "duration": "5:39",
+        "energy": 72,
+        "danceability": 44,
+        "happiness": 9,
+        "acousticness": 9,
+        "instrumentalness": 31,
+        "liveness": 85,
+        "speechiness": 10,
+        "loudness": "-14 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 55,
+        "min": 44,
+        "max": 66,
+        "range": 22,
+        "std": 15.56
+      },
+      "energy": {
+        "mean": 84.5,
+        "min": 72,
+        "max": 97,
+        "range": 25,
+        "std": 17.68
+      },
+      "acousticness": {
+        "mean": 4.5,
+        "min": 0,
+        "max": 9,
+        "range": 9,
+        "std": 6.36
+      },
+      "instrumentalness": {
+        "mean": 49,
+        "min": 31,
+        "max": 67,
+        "range": 36,
+        "std": 25.46
+      },
+      "speechiness": {
+        "mean": 8,
+        "min": 6,
+        "max": 10,
+        "range": 4,
+        "std": 2.83
+      },
+      "liveness": {
+        "mean": 51,
+        "min": 17,
+        "max": 85,
+        "range": 68,
+        "std": 48.08
+      },
+      "tempo": {
+        "mean": 105.5,
+        "min": 97,
+        "max": 114,
+        "range": 17,
+        "std": 12.02
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_025.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1941455
+  },
+  "original_mbid": "6a24dd33-4eef-44a8-912a-2916a3cec6b4",
+  "url": "https://www.last.fm/music/The+Future+Sound+of+London/Dead+Cities"
+}

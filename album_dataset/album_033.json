@@ -1,0 +1,133 @@
+{
+  "album_id": "033",
+  "metadata": {
+    "title": "Crossroads",
+    "artist": "Tracy Chapman",
+    "release_year": 1989,
+    "genre": "pop folk",
+    "all_genres": [
+      "pop folk",
+      "easy listening",
+      "alternative rock",
+      "jazz",
+      "blues rock",
+      "folk rock",
+      "rock",
+      "pop",
+      "folk",
+      "disco",
+      "soul",
+      "blues"
+    ],
+    "description": " is the second album by >  , released in 1989. Track listing: All songs written by   1. \"\" – 4:11 2. \"Bridges\" – 5:24 3. \"Freedom Now\" – 4:02 4. \"Material \" – 3:02 5. \"Be Careful of My Heart\" – 4:39 6. \"Subcity\" – 5:09 7. \"Born to Fight\" – 2:46 8. \"A Hundred Years\" – 4:20 9. \"This Time\" – 3:43 10. \"All That You Have Is Your >\" – 5:16",
+    "listeners": 207589,
+    "playcount": 1417203
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Crossroads",
+        "track_number": 1,
+        "id": "5fa5b7366fb0dd55153fc0ac1267c8cc",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 106,
+        "duration": "4:11",
+        "energy": 26,
+        "danceability": 79,
+        "happiness": 60,
+        "acousticness": 78,
+        "instrumentalness": 1,
+        "liveness": 10,
+        "speechiness": 4,
+        "loudness": "-15 dB"
+      },
+      {
+        "track_name": "Bridges",
+        "track_number": 2,
+        "id": "6e2e844019a09a0ce204775bb84bc7a0"
+      },
+      {
+        "track_name": "Freedom Now",
+        "track_number": 3,
+        "id": "d4f10ccb3318833392d9c8c7ff88b336",
+        "key": "C#",
+        "mode": "major",
+        "camelot": "3B",
+        "tempo": 92,
+        "duration": "4:05",
+        "energy": 55,
+        "danceability": 64,
+        "happiness": 74,
+        "acousticness": 7,
+        "instrumentalness": 0,
+        "liveness": 31,
+        "speechiness": 3,
+        "loudness": "-12 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 71.5,
+        "min": 64,
+        "max": 79,
+        "range": 15,
+        "std": 10.61
+      },
+      "energy": {
+        "mean": 40.5,
+        "min": 26,
+        "max": 55,
+        "range": 29,
+        "std": 20.51
+      },
+      "acousticness": {
+        "mean": 42.5,
+        "min": 7,
+        "max": 78,
+        "range": 71,
+        "std": 50.2
+      },
+      "instrumentalness": {
+        "mean": 0.5,
+        "min": 0,
+        "max": 1,
+        "range": 1,
+        "std": 0.71
+      },
+      "speechiness": {
+        "mean": 3.5,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.71
+      },
+      "liveness": {
+        "mean": 20.5,
+        "min": 10,
+        "max": 31,
+        "range": 21,
+        "std": 14.85
+      },
+      "tempo": {
+        "mean": 99,
+        "min": 92,
+        "max": 106,
+        "range": 14,
+        "std": 9.9
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_033.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1417203
+  },
+  "original_mbid": "0d40268f-bc4c-4be9-8131-5772e9514fc9",
+  "url": "https://www.last.fm/music/Tracy+Chapman/Crossroads"
+}

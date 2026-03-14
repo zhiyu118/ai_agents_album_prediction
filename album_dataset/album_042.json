@@ -1,0 +1,144 @@
+{
+  "album_id": "042",
+  "metadata": {
+    "title": "You Could Have It So Much Better",
+    "artist": "Franz Ferdinand",
+    "release_year": 2005,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "britpop",
+      "punk",
+      "progressive rock",
+      "grunge",
+      "indie pop",
+      "rock and roll",
+      "indie rock",
+      "art rock",
+      "hard rock",
+      "pop",
+      "emo",
+      "europop",
+      "slowcore",
+      "alternative rock",
+      "electroclash",
+      "soft rock",
+      "modern rock",
+      "indie folk",
+      "glam rock",
+      "industrial",
+      "new wave",
+      "garage rock",
+      "soundtrack",
+      "funk rock",
+      "easy listening",
+      "alternative dance",
+      "rock"
+    ],
+    "description": " is the second studio album by Glaswegian > > band  that was first released 3 October 2005 in the United Kingdom. Recorded in both the > and their own studio in Glasgow with producer  , the album gave birth to the release of four UK Top 30 singles Do You Want To on 23 August 2005, The Fallen / . ,  Away and  Put Your Boots On. The album became the band's first UK #1 album, and although their debut album was relatively successful in the USA,",
+    "listeners": 1407953,
+    "playcount": 24843447
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "The Fallen",
+        "track_number": 1,
+        "id": "12401fcf3a1b49b69752e3ebf00674de",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 113,
+        "duration": "3:42",
+        "energy": 98,
+        "danceability": 49,
+        "happiness": 47,
+        "acousticness": 1,
+        "instrumentalness": 0,
+        "liveness": 6,
+        "speechiness": 10,
+        "loudness": "-2 dB"
+      },
+      {
+        "track_name": "This Boy",
+        "track_number": 3,
+        "id": "d0c2714e69334264988a678ce369aa30",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 157,
+        "duration": "2:22",
+        "energy": 95,
+        "danceability": 46,
+        "happiness": 87,
+        "acousticness": 16,
+        "instrumentalness": 0,
+        "liveness": 28,
+        "speechiness": 8,
+        "loudness": "-2 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 47.5,
+        "min": 46,
+        "max": 49,
+        "range": 3,
+        "std": 2.12
+      },
+      "energy": {
+        "mean": 96.5,
+        "min": 95,
+        "max": 98,
+        "range": 3,
+        "std": 2.12
+      },
+      "acousticness": {
+        "mean": 8.5,
+        "min": 1,
+        "max": 16,
+        "range": 15,
+        "std": 10.61
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 9,
+        "min": 8,
+        "max": 10,
+        "range": 2,
+        "std": 1.41
+      },
+      "liveness": {
+        "mean": 17,
+        "min": 6,
+        "max": 28,
+        "range": 22,
+        "std": 15.56
+      },
+      "tempo": {
+        "mean": 135,
+        "min": 113,
+        "max": 157,
+        "range": 44,
+        "std": 31.11
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_042.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 24843447
+  },
+  "original_mbid": "27abd7f1-5c5f-3df2-a9de-038894eefec2",
+  "url": "https://www.last.fm/music/Franz+Ferdinand/You+Could+Have+It+So+Much+Better"
+}

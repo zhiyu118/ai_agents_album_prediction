@@ -1,0 +1,151 @@
+{
+  "album_id": "010",
+  "metadata": {
+    "title": "Want (Deluxe)",
+    "artist": "3OH!3",
+    "release_year": 2008,
+    "genre": "techno",
+    "all_genres": [
+      "techno",
+      "indie rock",
+      "hip hop",
+      "electropop",
+      "rap",
+      "alternative hip hop",
+      "electronic rock",
+      "pop",
+      "pop rap",
+      "alternative rock",
+      "new rave",
+      "power pop",
+      "rap rock",
+      "electronica",
+      "crunk",
+      "electro",
+      "rock"
+    ],
+    "description": "WANT is the major-label debut studio album by  > > duo . It was released July 8th, 2008 by Photo Finish and Atlantic. The bulk of the album was produced by the duo along with  .   is credited for additional production on \"DONTTRUSTME\" and \"RICHMAN\". \"DONTTRUSTME\" was released as the lead single on June 1st, 2008. The song became the duo's breakout hit, attaining major airplay rotation and propelling it to the top of US Mainstream Top 40. In its 23rd week charting week, the song reached its peak ",
+    "listeners": 223732,
+    "playcount": 1696078
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Tapp",
+        "track_number": 1,
+        "id": "9e973506973a8a4b1177255f62b60f79",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 125,
+        "duration": "1:02",
+        "energy": 80,
+        "danceability": 87,
+        "happiness": 11,
+        "acousticness": 0,
+        "instrumentalness": 71,
+        "liveness": 37,
+        "speechiness": 37,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Punkb*tch",
+        "track_number": 2,
+        "id": "de02aa4025a760a84501bf1cc5838bf1",
+        "key": "F",
+        "mode": "minor",
+        "camelot": "4A",
+        "tempo": 146,
+        "duration": "3:51",
+        "energy": 83,
+        "danceability": 59,
+        "happiness": 57,
+        "acousticness": 1,
+        "instrumentalness": 0,
+        "liveness": 14,
+        "speechiness": 10,
+        "loudness": "-3 dB"
+      },
+      {
+        "track_name": "Don't Trust Me",
+        "track_number": 3,
+        "id": "fd55156a093dcd4fec8f983ad068c4c5",
+        "key": "F",
+        "mode": "minor",
+        "camelot": "4A",
+        "tempo": 130,
+        "duration": "3:13",
+        "energy": 71,
+        "danceability": 79,
+        "happiness": 51,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 19,
+        "speechiness": 25,
+        "loudness": "-4 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 75,
+        "min": 59,
+        "max": 87,
+        "range": 28,
+        "std": 14.42
+      },
+      "energy": {
+        "mean": 78,
+        "min": 71,
+        "max": 83,
+        "range": 12,
+        "std": 6.24
+      },
+      "acousticness": {
+        "mean": 1,
+        "min": 0,
+        "max": 2,
+        "range": 2,
+        "std": 1.0
+      },
+      "instrumentalness": {
+        "mean": 23.67,
+        "min": 0,
+        "max": 71,
+        "range": 71,
+        "std": 40.99
+      },
+      "speechiness": {
+        "mean": 24,
+        "min": 10,
+        "max": 37,
+        "range": 27,
+        "std": 13.53
+      },
+      "liveness": {
+        "mean": 23.33,
+        "min": 14,
+        "max": 37,
+        "range": 23,
+        "std": 12.1
+      },
+      "tempo": {
+        "mean": 133.67,
+        "min": 125,
+        "max": 146,
+        "range": 21,
+        "std": 10.97
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_010.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1696078
+  },
+  "original_mbid": "f380877c-869a-4d2f-8d5f-ee502d3a95bc",
+  "url": "https://www.last.fm/music/3OH!3/Want+(Deluxe)"
+}

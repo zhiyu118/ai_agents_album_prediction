@@ -1,0 +1,159 @@
+{
+  "album_id": "046",
+  "metadata": {
+    "title": "Emmerdale (Remastered)",
+    "artist": "The Cardigans",
+    "release_year": 1994,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "ambient",
+      "britpop",
+      "bossa nova",
+      "sunshine pop",
+      "folk",
+      "jangle pop",
+      "indie pop",
+      "indie rock",
+      "twee pop",
+      "electronic rock",
+      "pop",
+      "europop",
+      "alternative rock",
+      "jazz",
+      "vocal jazz",
+      "indietronica",
+      "electronica",
+      "lounge",
+      "trip hop",
+      "swing",
+      "electro",
+      "vaudeville",
+      "rock",
+      "dream pop"
+    ],
+    "description": "Emmerdale is the debut studio album by Swedish > > band . It was originally released in Sweden by Trampolene Records on 18 February 1994, and on 24 September 1994 in Japan. It was later reissued in Europe in January 1999 and in Canada in May the same year. A special U.S. version was released in August 1999 by Minty Fresh Records and features a bonus disc of songs from ' second album Life. These songs were not released in the U.S. edition of said album and were previously unavailable on any U.S. ",
+    "listeners": 53245,
+    "playcount": 609517
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Sick & Tired",
+        "track_number": 1,
+        "id": "94c236e3aa728dc1866fba3dced0a9e7",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 148,
+        "duration": "3:41",
+        "energy": 79,
+        "danceability": 59,
+        "happiness": 88,
+        "acousticness": 18,
+        "instrumentalness": 0,
+        "liveness": 29,
+        "speechiness": 7,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "Black Letter Day",
+        "track_number": 2,
+        "id": "d3e7534a61270dfcb8d7f2c330fcf105",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 139,
+        "duration": "4:31",
+        "energy": 37,
+        "danceability": 43,
+        "happiness": 47,
+        "acousticness": 37,
+        "instrumentalness": 0,
+        "liveness": 34,
+        "speechiness": 3,
+        "loudness": "-9 dB"
+      },
+      {
+        "track_name": "In the Afternoon",
+        "track_number": 3,
+        "id": "57d4c1c9315fad05fd82bae7f7837758",
+        "key": "A",
+        "mode": "major",
+        "camelot": "11B",
+        "tempo": 96,
+        "duration": "4:11",
+        "energy": 27,
+        "danceability": 52,
+        "happiness": 25,
+        "acousticness": 57,
+        "instrumentalness": 0,
+        "liveness": 29,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 51.33,
+        "min": 43,
+        "max": 59,
+        "range": 16,
+        "std": 8.02
+      },
+      "energy": {
+        "mean": 47.67,
+        "min": 27,
+        "max": 79,
+        "range": 52,
+        "std": 27.59
+      },
+      "acousticness": {
+        "mean": 37.33,
+        "min": 18,
+        "max": 57,
+        "range": 39,
+        "std": 19.5
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 4.33,
+        "min": 3,
+        "max": 7,
+        "range": 4,
+        "std": 2.31
+      },
+      "liveness": {
+        "mean": 30.67,
+        "min": 29,
+        "max": 34,
+        "range": 5,
+        "std": 2.89
+      },
+      "tempo": {
+        "mean": 127.67,
+        "min": 96,
+        "max": 148,
+        "range": 52,
+        "std": 27.79
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_046.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 609517
+  },
+  "original_mbid": "4818759c-f017-46ab-9656-d37fbb4607d7",
+  "url": "https://www.last.fm/music/The+Cardigans/Emmerdale+(Remastered)"
+}

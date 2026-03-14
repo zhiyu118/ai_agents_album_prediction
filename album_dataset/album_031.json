@@ -1,0 +1,145 @@
+{
+  "album_id": "031",
+  "metadata": {
+    "title": "When I Fall In Love",
+    "artist": "Chris Botti",
+    "release_year": 2004,
+    "genre": "downtempo",
+    "all_genres": [
+      "downtempo",
+      "jazz",
+      "cool jazz",
+      "lounge",
+      "house",
+      "deep house",
+      "dark ambient",
+      "pop",
+      "smooth jazz",
+      "easy listening",
+      "classical"
+    ],
+    "description": " is the seventh studio album by trumpet player  . It was released by Columbia Records on September 28, 2004 and peaked at number 1 on Billboard Top > Albums chart. The album has sold more than 500,000 copies and has been certified Gold by the Recording Industry Association of America (RIAA).",
+    "listeners": 118929,
+    "playcount": 906259
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "When I Fall in Love",
+        "track_number": 1,
+        "id": "b297807d63b118d117190d74cc946b1b",
+        "key": "F",
+        "mode": "major",
+        "camelot": "7B",
+        "tempo": 120,
+        "duration": "4:22",
+        "energy": 15,
+        "danceability": 41,
+        "happiness": 9,
+        "acousticness": 80,
+        "instrumentalness": 97,
+        "liveness": 9,
+        "speechiness": 3,
+        "loudness": "-18 dB"
+      },
+      {
+        "track_name": "What'll I Do?",
+        "track_number": 2,
+        "id": "7eab952b9706706dc7d48cd79b01abb2",
+        "key": "C",
+        "mode": "minor",
+        "camelot": "5A",
+        "tempo": 77,
+        "duration": "5:09",
+        "energy": 10,
+        "danceability": 19,
+        "happiness": 6,
+        "acousticness": 95,
+        "instrumentalness": 19,
+        "liveness": 10,
+        "speechiness": 3,
+        "loudness": "-19 dB"
+      },
+      {
+        "track_name": "No Ordinary Love",
+        "track_number": 3,
+        "id": "8e977df749bf66adfb312d8e64411f1e",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 83,
+        "duration": "6:05",
+        "energy": 28,
+        "danceability": 58,
+        "happiness": 35,
+        "acousticness": 75,
+        "instrumentalness": 67,
+        "liveness": 11,
+        "speechiness": 4,
+        "loudness": "-17 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 39.33,
+        "min": 19,
+        "max": 58,
+        "range": 39,
+        "std": 19.55
+      },
+      "energy": {
+        "mean": 17.67,
+        "min": 10,
+        "max": 28,
+        "range": 18,
+        "std": 9.29
+      },
+      "acousticness": {
+        "mean": 83.33,
+        "min": 75,
+        "max": 95,
+        "range": 20,
+        "std": 10.41
+      },
+      "instrumentalness": {
+        "mean": 61,
+        "min": 19,
+        "max": 97,
+        "range": 78,
+        "std": 39.34
+      },
+      "speechiness": {
+        "mean": 3.33,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 10,
+        "min": 9,
+        "max": 11,
+        "range": 2,
+        "std": 1.0
+      },
+      "tempo": {
+        "mean": 93.33,
+        "min": 77,
+        "max": 120,
+        "range": 43,
+        "std": 23.29
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_031.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 906259
+  },
+  "original_mbid": "2a2f1076-28dd-4122-b7fb-012505129df0",
+  "url": "https://www.last.fm/music/Chris+Botti/When+I+Fall+In+Love"
+}

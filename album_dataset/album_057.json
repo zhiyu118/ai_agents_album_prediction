@@ -1,0 +1,171 @@
+{
+  "album_id": "057",
+  "metadata": {
+    "title": "hopeless fountain kingdom (Deluxe)",
+    "artist": "Halsey",
+    "release_year": 2017,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "punk",
+      "trap",
+      "noise",
+      "metal",
+      "viking metal",
+      "indie pop",
+      "techno",
+      "hip hop",
+      "schlager",
+      "electropop",
+      "rap",
+      "house",
+      "metalcore",
+      "pop",
+      "emo",
+      "hardcore",
+      "pop rap",
+      "grindcore",
+      "classical",
+      "screamo",
+      "black metal",
+      "acid jazz",
+      "melodic death metal",
+      "trance",
+      "experimental",
+      "comedy",
+      "soul",
+      "easy listening",
+      "drone",
+      "dubstep",
+      "electronica",
+      "crunk",
+      "synthpop",
+      "straight edge",
+      "funk",
+      "rock"
+    ],
+    "description": "\"hopeless fountain kingdom\" is the second studio album by  > . It was released on June 2, 2017 through Astralwerks. The album features guest appearances from vo,  rei and Cashmere Cat.  co-wrote every song on the album, while production was handled by  and  , among others. Following its release, \"hopeless fountain kingdom\" debuted at number one on the Billboard 200 albums chart in the > and the Canadian Albums Chart. The album was also certified Platinum by the Recording Industry Association of ",
+    "listeners": 765305,
+    "playcount": 18624233
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "The Prologue",
+        "track_number": 1,
+        "id": "01da8004886c9b8cd1f8dbd55fd46044",
+        "key": "G",
+        "mode": "minor",
+        "camelot": "6A",
+        "tempo": 38,
+        "duration": "1:48",
+        "energy": 46,
+        "danceability": 50,
+        "happiness": 14,
+        "acousticness": 53,
+        "instrumentalness": 0,
+        "liveness": 10,
+        "speechiness": 4,
+        "loudness": "-11 dB"
+      },
+      {
+        "track_name": "100 Letters",
+        "track_number": 2,
+        "id": "53a31b742d9cc4cde86ca62260b8f0ce",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 110,
+        "duration": "3:30",
+        "energy": 71,
+        "danceability": 75,
+        "happiness": 38,
+        "acousticness": 16,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 9,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "Eyes Closed",
+        "track_number": 3,
+        "id": "92ba0fc8a7b7ec2632688248488349b4",
+        "key": "C#",
+        "mode": "minor",
+        "camelot": "12A",
+        "tempo": 130,
+        "duration": "3:22",
+        "energy": 68,
+        "danceability": 58,
+        "happiness": 4,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 8,
+        "speechiness": 4,
+        "loudness": "-5 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 61,
+        "min": 50,
+        "max": 75,
+        "range": 25,
+        "std": 12.77
+      },
+      "energy": {
+        "mean": 61.67,
+        "min": 46,
+        "max": 71,
+        "range": 25,
+        "std": 13.65
+      },
+      "acousticness": {
+        "mean": 23.67,
+        "min": 2,
+        "max": 53,
+        "range": 51,
+        "std": 26.35
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 5.67,
+        "min": 4,
+        "max": 9,
+        "range": 5,
+        "std": 2.89
+      },
+      "liveness": {
+        "mean": 8.33,
+        "min": 7,
+        "max": 10,
+        "range": 3,
+        "std": 1.53
+      },
+      "tempo": {
+        "mean": 92.67,
+        "min": 38,
+        "max": 130,
+        "range": 92,
+        "std": 48.39
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_057.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 18624233
+  },
+  "original_mbid": "bd90856d-5b7d-4e8b-b200-347a0e977f4b",
+  "url": "https://www.last.fm/music/Halsey/hopeless+fountain+kingdom+(Deluxe)"
+}

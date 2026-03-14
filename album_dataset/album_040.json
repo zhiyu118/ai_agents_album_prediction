@@ -1,0 +1,138 @@
+{
+  "album_id": "040",
+  "metadata": {
+    "title": "Hi We're The Miracles",
+    "artist": "The Miracles",
+    "release_year": 1961,
+    "genre": "pop",
+    "all_genres": [
+      "pop",
+      "rhythm and blues",
+      "motown",
+      "soul"
+    ],
+    "description": "Hi... We're  is the first album by , >'s first group, released on >'s Tamla subsidiary label in January 1961. It was the first album released by the > Record Corporation. The album features several songs that played an important role in defining The >  and establishing songwriters   and  .\nThe styles of the album tracks vary from the late >  of \"Who's Lovin' You\" (later recorded by The Temptations, the Jackson 5,   , and En ) and \"(You Can) Depend on Me\", to the upbeat > of \"Way Over There\". Als",
+    "listeners": 27572,
+    "playcount": 82034
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Who's Lovin' You",
+        "track_number": 1,
+        "id": "9d261af6bb3db99239be117a28f0ee21",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 176,
+        "duration": "3:03",
+        "energy": 44,
+        "danceability": 31,
+        "happiness": 38,
+        "acousticness": 78,
+        "instrumentalness": 0,
+        "liveness": 18,
+        "speechiness": 4,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Depend On Me",
+        "track_number": 2,
+        "id": "76b210af46efd2044a5ddb943343df13",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 175,
+        "duration": "3:09",
+        "energy": 31,
+        "danceability": 23,
+        "happiness": 21,
+        "acousticness": 93,
+        "instrumentalness": 0,
+        "liveness": 11,
+        "speechiness": 3,
+        "loudness": "-9 dB"
+      },
+      {
+        "track_name": "Heart Like Mine",
+        "track_number": 3,
+        "id": "c263a2149cadffba656ff6a4eab993f4",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 106,
+        "duration": "2:05",
+        "energy": 52,
+        "danceability": 54,
+        "happiness": 79,
+        "acousticness": 79,
+        "instrumentalness": 0,
+        "liveness": 29,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 36,
+        "min": 23,
+        "max": 54,
+        "range": 31,
+        "std": 16.09
+      },
+      "energy": {
+        "mean": 42.33,
+        "min": 31,
+        "max": 52,
+        "range": 21,
+        "std": 10.6
+      },
+      "acousticness": {
+        "mean": 83.33,
+        "min": 78,
+        "max": 93,
+        "range": 15,
+        "std": 8.39
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3.33,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 19.33,
+        "min": 11,
+        "max": 29,
+        "range": 18,
+        "std": 9.07
+      },
+      "tempo": {
+        "mean": 152.33,
+        "min": 106,
+        "max": 176,
+        "range": 70,
+        "std": 40.13
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_040.jpg",
+  "ground_truth": {
+    "tier": 1,
+    "tier_label": "Underground/Cult",
+    "tier_description": "Small dedicated fanbase, very limited reach",
+    "playcount_range": "< 100K plays",
+    "actual_playcount": 82034
+  },
+  "original_mbid": "14aee60a-dc78-43bc-a97e-999734229336",
+  "url": "https://www.last.fm/music/The+Miracles/Hi+We%27re+The+Miracles"
+}

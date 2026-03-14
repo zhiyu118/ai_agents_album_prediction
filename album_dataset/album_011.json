@@ -1,0 +1,152 @@
+{
+  "album_id": "011",
+  "metadata": {
+    "title": "Oh Land",
+    "artist": "Oh Land",
+    "release_year": 2011,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "trap",
+      "indie pop",
+      "downtempo",
+      "electropop",
+      "experimental pop",
+      "pop",
+      "europop",
+      "art pop",
+      "experimental",
+      "indietronica",
+      "easy listening",
+      "electronica",
+      "synthpop",
+      "trip hop",
+      "electro",
+      "disco",
+      "dream pop"
+    ],
+    "description": "  is the second studio album by >  , released on 14 March 2011 by  Diamond Records, > Records, and A:larm >. Before moving to Brooklyn in 2010, she met with a representative from > Records at a SXSW event and was eventually signed to the label in 2009. She began working on the album, collaborating with musicians like  ,  , and  . A digital extended play titled  EP was released in October 2010, featuring five songs that would later appear on the parent album.\nThe album was produced by , ,  en,  ,",
+    "listeners": 275540,
+    "playcount": 4564001
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Perfection",
+        "track_number": 1,
+        "id": "b911cd327a056dd58f0f2ed880e45acf",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 83,
+        "duration": "4:59",
+        "energy": 55,
+        "danceability": 53,
+        "happiness": 24,
+        "acousticness": 11,
+        "instrumentalness": 0,
+        "liveness": 30,
+        "speechiness": 3,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Break the Chain",
+        "track_number": 2,
+        "id": "6cb401cfe2d318f7e3022a804467c23c",
+        "key": "G",
+        "mode": "minor",
+        "camelot": "6A",
+        "tempo": 140,
+        "duration": "3:17",
+        "energy": 62,
+        "danceability": 60,
+        "happiness": 26,
+        "acousticness": 46,
+        "instrumentalness": 0,
+        "liveness": 22,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Sun of a Gun",
+        "track_number": 3,
+        "id": "984eb8594caa27822c25335b7897f30d",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 133,
+        "duration": "3:25",
+        "energy": 63,
+        "danceability": 71,
+        "happiness": 30,
+        "acousticness": 26,
+        "instrumentalness": 0,
+        "liveness": 10,
+        "speechiness": 20,
+        "loudness": "-6 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 61.33,
+        "min": 53,
+        "max": 71,
+        "range": 18,
+        "std": 9.07
+      },
+      "energy": {
+        "mean": 60,
+        "min": 55,
+        "max": 63,
+        "range": 8,
+        "std": 4.36
+      },
+      "acousticness": {
+        "mean": 27.67,
+        "min": 11,
+        "max": 46,
+        "range": 35,
+        "std": 17.56
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 8.67,
+        "min": 3,
+        "max": 20,
+        "range": 17,
+        "std": 9.81
+      },
+      "liveness": {
+        "mean": 20.67,
+        "min": 10,
+        "max": 30,
+        "range": 20,
+        "std": 10.07
+      },
+      "tempo": {
+        "mean": 118.67,
+        "min": 83,
+        "max": 140,
+        "range": 57,
+        "std": 31.09
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_011.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 4564001
+  },
+  "original_mbid": "1806a25b-f3c2-4eb3-9d17-5a84bc883738",
+  "url": "https://www.last.fm/music/Oh+Land/Oh+Land"
+}

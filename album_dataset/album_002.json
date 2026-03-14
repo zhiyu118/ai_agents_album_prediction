@@ -1,0 +1,144 @@
+{
+  "album_id": "002",
+  "metadata": {
+    "title": "Post-Nothing",
+    "artist": "Japandroids",
+    "release_year": 2009,
+    "genre": "indie rock",
+    "all_genres": [
+      "indie rock",
+      "alternative rock",
+      "shoegaze",
+      "noise",
+      "garage rock",
+      "noise rock",
+      "power pop",
+      "experimental",
+      "rock",
+      "indie pop"
+    ],
+    "description": "Recorded: June/July 2008 Released: April 2009 Label: Polyvinyl Records Format: CD, LP (Vinyl), Digital",
+    "listeners": 160982,
+    "playcount": 2918201
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "The Boys Are Leaving Town",
+        "track_number": 1,
+        "id": "db7c2eb9d35652abb6e31782d9d79c38",
+        "key": "E",
+        "mode": "major",
+        "camelot": "12B",
+        "tempo": 82,
+        "duration": "4:01",
+        "energy": 89,
+        "danceability": 8,
+        "happiness": 16,
+        "acousticness": 0,
+        "instrumentalness": 13,
+        "liveness": 9,
+        "speechiness": 6,
+        "loudness": "-4 dB"
+      },
+      {
+        "track_name": "Young Hearts Spark Fire",
+        "track_number": 2,
+        "id": "2bc54a594b9fcd5bd98ea395fa43330e",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 113,
+        "duration": "5:05",
+        "energy": 93,
+        "danceability": 20,
+        "happiness": 19,
+        "acousticness": 0,
+        "instrumentalness": 27,
+        "liveness": 10,
+        "speechiness": 10,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "Wet Hair",
+        "track_number": 3,
+        "id": "ceaf3308f6e8d59c88b032ec02c1e5b9",
+        "key": "E",
+        "mode": "major",
+        "camelot": "12B",
+        "tempo": 190,
+        "duration": "3:12",
+        "energy": 97,
+        "danceability": 7,
+        "happiness": 31,
+        "acousticness": 0,
+        "instrumentalness": 1,
+        "liveness": 9,
+        "speechiness": 14,
+        "loudness": "-4 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 11.67,
+        "min": 7,
+        "max": 20,
+        "range": 13,
+        "std": 7.23
+      },
+      "energy": {
+        "mean": 93,
+        "min": 89,
+        "max": 97,
+        "range": 8,
+        "std": 4.0
+      },
+      "acousticness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "instrumentalness": {
+        "mean": 13.67,
+        "min": 1,
+        "max": 27,
+        "range": 26,
+        "std": 13.01
+      },
+      "speechiness": {
+        "mean": 10,
+        "min": 6,
+        "max": 14,
+        "range": 8,
+        "std": 4.0
+      },
+      "liveness": {
+        "mean": 9.33,
+        "min": 9,
+        "max": 10,
+        "range": 1,
+        "std": 0.58
+      },
+      "tempo": {
+        "mean": 128.33,
+        "min": 82,
+        "max": 190,
+        "range": 108,
+        "std": 55.61
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_002.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 2918201
+  },
+  "original_mbid": "14a9f2fd-8287-4f6a-8a44-b144ad7de8c6",
+  "url": "https://www.last.fm/music/Japandroids/Post-Nothing"
+}

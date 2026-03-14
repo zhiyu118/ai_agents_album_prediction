@@ -1,0 +1,145 @@
+{
+  "album_id": "016",
+  "metadata": {
+    "title": "Stripped",
+    "artist": "Christina Aguilera",
+    "release_year": 2002,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "ambient",
+      "blues",
+      "hip hop",
+      "drum and bass",
+      "hard rock",
+      "rap",
+      "electropop",
+      "pop",
+      "neo soul",
+      "emo",
+      "disco",
+      "alternative rock",
+      "jazz",
+      "soft rock",
+      "modern rock",
+      "latin",
+      "gospel",
+      "trance",
+      "soundtrack",
+      "soul",
+      "easy listening",
+      "teen pop",
+      "crunk",
+      "latin pop",
+      "rhythm and blues",
+      "bubblegum pop",
+      "funk",
+      "rock"
+    ],
+    "description": " is the second English studio album by  , released in October 2002. It reached the top 2 of the album charts in both the > and United Kingdom and features two UK number-one hits which are \"Dirrty\" and \">\". With this album, a took creative control over a project for the first time, being influenced by many different subjects and > styles, including >, >, >, > >, and . She was involved in the production of the record, which was mainly produced by   and  . During the promotion of the album,",
+    "listeners": 1246946,
+    "playcount": 22604998
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Stripped Intro",
+        "track_number": 1,
+        "id": "d3dbbe92a80fb440c9ac48ffe7da70be",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 140,
+        "duration": "1:40",
+        "energy": 83,
+        "danceability": 30,
+        "happiness": 17,
+        "acousticness": 7,
+        "instrumentalness": 0,
+        "liveness": 31,
+        "speechiness": 7,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "Can't Hold Us Down",
+        "track_number": 2,
+        "id": "cf6ca1d5b542c8ee79e7661a0caa6a10",
+        "key": "Ab",
+        "mode": "major",
+        "camelot": "4B",
+        "tempo": 99,
+        "duration": "4:15",
+        "energy": 66,
+        "danceability": 86,
+        "happiness": 54,
+        "acousticness": 3,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 19,
+        "loudness": "-4 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 58,
+        "min": 30,
+        "max": 86,
+        "range": 56,
+        "std": 39.6
+      },
+      "energy": {
+        "mean": 74.5,
+        "min": 66,
+        "max": 83,
+        "range": 17,
+        "std": 12.02
+      },
+      "acousticness": {
+        "mean": 5,
+        "min": 3,
+        "max": 7,
+        "range": 4,
+        "std": 2.83
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 13,
+        "min": 7,
+        "max": 19,
+        "range": 12,
+        "std": 8.49
+      },
+      "liveness": {
+        "mean": 19,
+        "min": 7,
+        "max": 31,
+        "range": 24,
+        "std": 16.97
+      },
+      "tempo": {
+        "mean": 119.5,
+        "min": 99,
+        "max": 140,
+        "range": 41,
+        "std": 28.99
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_016.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 22604998
+  },
+  "original_mbid": "0c705c13-d755-4399-9ad4-a44a853ea86b",
+  "url": "https://www.last.fm/music/Christina+Aguilera/Stripped"
+}

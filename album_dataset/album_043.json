@@ -1,0 +1,157 @@
+{
+  "album_id": "043",
+  "metadata": {
+    "title": "Dying to Say This to You",
+    "artist": "The Sounds",
+    "release_year": 2006,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "britpop",
+      "progressive rock",
+      "punk",
+      "indie pop",
+      "indie rock",
+      "electropop",
+      "pop",
+      "experimental rock",
+      "alternative rock",
+      "new rave",
+      "new wave",
+      "soundtrack",
+      "garage rock",
+      "power pop",
+      "experimental",
+      "indietronica",
+      "electronica",
+      "synthpop",
+      "pop punk",
+      "electro",
+      "disco",
+      "rock"
+    ],
+    "description": " is a studio album in English by Swedish > group . It was released on March 15, 2006 in Sweden and on March 21, 2006 in the >. The album blends Swedish-influenced > > with a sassy and spunky delivery by vocalist  , reminiscent of Blondie. The cover depicts The Misshapes'    on the left and her friend   on the right. The song \"Running Out of Turbo\" was featured in a chase scene in the episode \"Free Fall\" of the  television  CSI: Miami,",
+    "listeners": 324766,
+    "playcount": 8031930
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Song With a Mission",
+        "track_number": 1,
+        "id": "4c2e305232b1f8c99ffe6bbbbbd6302f",
+        "key": "B",
+        "mode": "major",
+        "camelot": "1B",
+        "tempo": 150,
+        "duration": "2:58",
+        "energy": 75,
+        "danceability": 54,
+        "happiness": 80,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 10,
+        "speechiness": 3,
+        "loudness": "-3 dB"
+      },
+      {
+        "track_name": "Queen of Apology",
+        "track_number": 2,
+        "id": "afa3d973af776351243e83b6de1a6b5b",
+        "key": "C#",
+        "mode": "minor",
+        "camelot": "12A",
+        "tempo": 152,
+        "duration": "3:06",
+        "energy": 88,
+        "danceability": 54,
+        "happiness": 58,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 4,
+        "speechiness": 5,
+        "loudness": "-3 dB"
+      },
+      {
+        "track_name": "Tony the Beat",
+        "track_number": 3,
+        "id": "bde546bdba20a8c285e361526290ed79",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 128,
+        "duration": "3:12",
+        "energy": 79,
+        "danceability": 72,
+        "happiness": 95,
+        "acousticness": 1,
+        "instrumentalness": 0,
+        "liveness": 3,
+        "speechiness": 4,
+        "loudness": "-3 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 60,
+        "min": 54,
+        "max": 72,
+        "range": 18,
+        "std": 10.39
+      },
+      "energy": {
+        "mean": 80.67,
+        "min": 75,
+        "max": 88,
+        "range": 13,
+        "std": 6.66
+      },
+      "acousticness": {
+        "mean": 1,
+        "min": 0,
+        "max": 2,
+        "range": 2,
+        "std": 1.0
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 4,
+        "min": 3,
+        "max": 5,
+        "range": 2,
+        "std": 1.0
+      },
+      "liveness": {
+        "mean": 5.67,
+        "min": 3,
+        "max": 10,
+        "range": 7,
+        "std": 3.79
+      },
+      "tempo": {
+        "mean": 143.33,
+        "min": 128,
+        "max": 152,
+        "range": 24,
+        "std": 13.32
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_043.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 8031930
+  },
+  "original_mbid": "31841459-9072-4868-8598-e3bb9cb461c8",
+  "url": "https://www.last.fm/music/The+Sounds/Dying+to+Say+This+to+You"
+}

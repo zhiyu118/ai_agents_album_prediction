@@ -1,0 +1,139 @@
+{
+  "album_id": "063",
+  "metadata": {
+    "title": "Escala",
+    "artist": "Escala",
+    "release_year": 2009,
+    "genre": "orchestra",
+    "all_genres": [
+      "orchestra",
+      "rock",
+      "string quartet",
+      "easy listening",
+      "classical"
+    ],
+    "description": " is the self-titled debut album by > quartet , who appeared on the ITV talent contest Britain's Got Talent. It was released on 25 May 2009 in the United Kingdom.",
+    "listeners": 93237,
+    "playcount": 1263808
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Requiem For A Tower",
+        "track_number": 1,
+        "id": "b7968f634133c5d43a1e7435e5dd71ec",
+        "key": "G",
+        "mode": "minor",
+        "camelot": "6A",
+        "tempo": 79,
+        "duration": "1:59",
+        "energy": 74,
+        "danceability": 43,
+        "happiness": 39,
+        "acousticness": 21,
+        "instrumentalness": 78,
+        "liveness": 6,
+        "speechiness": 4,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Palladio",
+        "track_number": 2,
+        "id": "da1e43d19632a48f55e3ea1d56c3bdff",
+        "key": "D",
+        "mode": "minor",
+        "camelot": "7A",
+        "tempo": 91,
+        "duration": "3:54",
+        "energy": 87,
+        "danceability": 59,
+        "happiness": 35,
+        "acousticness": 22,
+        "instrumentalness": 88,
+        "liveness": 9,
+        "speechiness": 3,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "Kashmir (Feat. Slash)",
+        "track_number": 3,
+        "id": "d81549619830a7eedf1672f4994db6b2",
+        "key": "D",
+        "mode": "minor",
+        "camelot": "7A",
+        "tempo": 79,
+        "duration": "3:24",
+        "energy": 67,
+        "danceability": 18,
+        "happiness": 17,
+        "acousticness": 0,
+        "instrumentalness": 81,
+        "liveness": 8,
+        "speechiness": 4,
+        "loudness": "-3 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 40,
+        "min": 18,
+        "max": 59,
+        "range": 41,
+        "std": 20.66
+      },
+      "energy": {
+        "mean": 76,
+        "min": 67,
+        "max": 87,
+        "range": 20,
+        "std": 10.15
+      },
+      "acousticness": {
+        "mean": 14.33,
+        "min": 0,
+        "max": 22,
+        "range": 22,
+        "std": 12.42
+      },
+      "instrumentalness": {
+        "mean": 82.33,
+        "min": 78,
+        "max": 88,
+        "range": 10,
+        "std": 5.13
+      },
+      "speechiness": {
+        "mean": 3.67,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 7.67,
+        "min": 6,
+        "max": 9,
+        "range": 3,
+        "std": 1.53
+      },
+      "tempo": {
+        "mean": 83,
+        "min": 79,
+        "max": 91,
+        "range": 12,
+        "std": 6.93
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_063.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1263808
+  },
+  "original_mbid": "52de60ea-a259-47a8-ba19-e275355473a7",
+  "url": "https://www.last.fm/music/Escala/Escala"
+}

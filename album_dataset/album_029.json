@@ -1,0 +1,142 @@
+{
+  "album_id": "029",
+  "metadata": {
+    "title": "Skyshaper",
+    "artist": "Covenant",
+    "release_year": 2006,
+    "genre": "futurepop",
+    "all_genres": [
+      "futurepop",
+      "electroclash",
+      "electropop",
+      "electronica",
+      "synthpop",
+      "industrial",
+      "electro",
+      "pop"
+    ],
+    "description": " is 's sixth studio album. It was released in Europe by Synthetic > / SPV on 2006 March 3 and in the > by Metropolis Records on 2006 March 7. It reached No. 44 in the  mainstream charts. \"Ritual >\" was the album's first single, reaching No. 64 in Germany on 3 February 2006 (charting for 3 weeks) and No. 42 in Sweden on 26 January 2006 (charting for 2 weeks) and \"Brave New \" was the second. The song \"20 Hz\" was featured in the 2005 video  Project Gotham Racing 3. The band took 14",
+    "listeners": 44704,
+    "playcount": 1037553
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Ritual Noise",
+        "track_number": 1,
+        "id": "8cd8392c338b3cf0f328f5e63930d193",
+        "key": "G",
+        "mode": "minor",
+        "camelot": "6A",
+        "tempo": 128,
+        "duration": "7:18",
+        "energy": 94,
+        "danceability": 59,
+        "happiness": 6,
+        "acousticness": 6,
+        "instrumentalness": 29,
+        "liveness": 9,
+        "speechiness": 5,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Pulse",
+        "track_number": 2,
+        "id": "632df0ce819c150013592dc15277e5da",
+        "key": "Ab",
+        "mode": "major",
+        "camelot": "4B",
+        "tempo": 133,
+        "duration": "6:05",
+        "energy": 88,
+        "danceability": 67,
+        "happiness": 29,
+        "acousticness": 0,
+        "instrumentalness": 83,
+        "liveness": 10,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Happy Man",
+        "track_number": 3,
+        "id": "6c881ea614d15189073951ab8de3adb9",
+        "key": "A",
+        "mode": "minor",
+        "camelot": "8A",
+        "tempo": 100,
+        "duration": "2:46",
+        "energy": 36,
+        "danceability": 85,
+        "happiness": 68,
+        "acousticness": 86,
+        "instrumentalness": 5,
+        "liveness": 7,
+        "speechiness": 3,
+        "loudness": "-9 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 70.33,
+        "min": 59,
+        "max": 85,
+        "range": 26,
+        "std": 13.32
+      },
+      "energy": {
+        "mean": 72.67,
+        "min": 36,
+        "max": 94,
+        "range": 58,
+        "std": 31.9
+      },
+      "acousticness": {
+        "mean": 30.67,
+        "min": 0,
+        "max": 86,
+        "range": 86,
+        "std": 48.01
+      },
+      "instrumentalness": {
+        "mean": 39,
+        "min": 5,
+        "max": 83,
+        "range": 78,
+        "std": 39.95
+      },
+      "speechiness": {
+        "mean": 3.67,
+        "min": 3,
+        "max": 5,
+        "range": 2,
+        "std": 1.15
+      },
+      "liveness": {
+        "mean": 8.67,
+        "min": 7,
+        "max": 10,
+        "range": 3,
+        "std": 1.53
+      },
+      "tempo": {
+        "mean": 120.33,
+        "min": 100,
+        "max": 133,
+        "range": 33,
+        "std": 17.79
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_029.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1037553
+  },
+  "original_mbid": "1972b060-ed26-3294-a9fe-68df8e46730e",
+  "url": "https://www.last.fm/music/Covenant/Skyshaper"
+}

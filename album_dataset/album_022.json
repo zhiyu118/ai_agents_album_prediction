@@ -1,0 +1,141 @@
+{
+  "album_id": "022",
+  "metadata": {
+    "title": "Up to Here",
+    "artist": "The Tragically Hip",
+    "release_year": 1989,
+    "genre": "hard rock",
+    "all_genres": [
+      "hard rock",
+      "alternative rock",
+      "country",
+      "pop",
+      "blues",
+      "rock",
+      "southern rock"
+    ],
+    "description": " is the debut studio album by Canadian > band , released in September 1989.  It is one of the band's most successful albums, achieving Diamond status in Canada for sales of over a million copies, earning the band a Juno Award for Most Promising Artist, and also introduced fan-favourite songs such as \"Blow at High Dough\", \" Is Sinking\", and \"Boots or Hearts\".  The album reached No. 13 on RPM's Canadian Albums Chart, and both \"Blow at High Dough\" and \" is Sinking\" reached No. 1 on the RPM Canadian",
+    "listeners": 63222,
+    "playcount": 689541
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Blow At High Dough",
+        "track_number": 1,
+        "id": "b3c1fb945a6179397328757edb9bb3be",
+        "key": "E",
+        "mode": "major",
+        "camelot": "12B",
+        "tempo": 122,
+        "duration": "4:37",
+        "energy": 59,
+        "danceability": 69,
+        "happiness": 34,
+        "acousticness": 0,
+        "instrumentalness": 1,
+        "liveness": 11,
+        "speechiness": 4,
+        "loudness": "-12 dB"
+      },
+      {
+        "track_name": "I'll Believe In You (Or I'll Be Leaving You Tonight)",
+        "track_number": 2,
+        "id": "ddb199130550c00dc2f354c457d3eccb",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 157,
+        "duration": "4:04",
+        "energy": 83,
+        "danceability": 54,
+        "happiness": 52,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 34,
+        "speechiness": 6,
+        "loudness": "-11 dB"
+      },
+      {
+        "track_name": "New Orleans Is Sinking",
+        "track_number": 3,
+        "id": "ea8a03b792ddb5a4f443fd104761ff51",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 110,
+        "duration": "4:17",
+        "energy": 61,
+        "danceability": 60,
+        "happiness": 67,
+        "acousticness": 0,
+        "instrumentalness": 1,
+        "liveness": 15,
+        "speechiness": 3,
+        "loudness": "-11 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 61,
+        "min": 54,
+        "max": 69,
+        "range": 15,
+        "std": 7.55
+      },
+      "energy": {
+        "mean": 67.67,
+        "min": 59,
+        "max": 83,
+        "range": 24,
+        "std": 13.32
+      },
+      "acousticness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "instrumentalness": {
+        "mean": 0.67,
+        "min": 0,
+        "max": 1,
+        "range": 1,
+        "std": 0.58
+      },
+      "speechiness": {
+        "mean": 4.33,
+        "min": 3,
+        "max": 6,
+        "range": 3,
+        "std": 1.53
+      },
+      "liveness": {
+        "mean": 20,
+        "min": 11,
+        "max": 34,
+        "range": 23,
+        "std": 12.29
+      },
+      "tempo": {
+        "mean": 129.67,
+        "min": 110,
+        "max": 157,
+        "range": 47,
+        "std": 24.42
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_022.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 689541
+  },
+  "original_mbid": "143786fa-b0b1-40b8-91ce-addd7fa65328",
+  "url": "https://www.last.fm/music/The+Tragically+Hip/Up+to+Here"
+}

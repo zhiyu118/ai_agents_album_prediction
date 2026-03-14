@@ -1,0 +1,128 @@
+{
+  "album_id": "020",
+  "metadata": {
+    "title": "Codes and Keys",
+    "artist": "Death Cab for Cutie",
+    "release_year": 2011,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "indie rock",
+      "downtempo",
+      "alternative rock",
+      "electronica",
+      "pop",
+      "emo",
+      "folk",
+      "experimental",
+      "rock",
+      "indie pop",
+      "dream pop"
+    ],
+    "description": " is the seventh studio album by > Cab for Cutie, released on May 31, 2011.   and   have both been quoted as saying that the album will be \"a much less -centric album than we've ever made before\". The first single, \"You Are a Tourist\", was made available for online stream on March 28, 2011 on the band's official site and the album was available for streaming in its entirety on May 23, 2011 on NPR. The album debuted at No. 3 on the Billboard 200, with 102,000 copies sold in its first week.",
+    "listeners": 321838,
+    "playcount": 7240719
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Home Is a Fire",
+        "track_number": 1,
+        "id": "a14f32202afc56c147e69642de3cf0ca",
+        "key": "B",
+        "mode": "major",
+        "camelot": "1B",
+        "tempo": 167,
+        "duration": "4:04",
+        "energy": 46,
+        "danceability": 44,
+        "happiness": 3,
+        "acousticness": 2,
+        "instrumentalness": 8,
+        "liveness": 11,
+        "speechiness": 3,
+        "loudness": "-12 dB"
+      },
+      {
+        "track_name": "Some Boys",
+        "track_number": 3,
+        "id": "5760dd21efbc61b08a62cef9a525d691",
+        "key": "A",
+        "mode": "major",
+        "camelot": "11B",
+        "tempo": 145,
+        "duration": "3:11",
+        "energy": 71,
+        "danceability": 49,
+        "happiness": 50,
+        "acousticness": 2,
+        "instrumentalness": 20,
+        "liveness": 13,
+        "speechiness": 5,
+        "loudness": "-9 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 46.5,
+        "min": 44,
+        "max": 49,
+        "range": 5,
+        "std": 3.54
+      },
+      "energy": {
+        "mean": 58.5,
+        "min": 46,
+        "max": 71,
+        "range": 25,
+        "std": 17.68
+      },
+      "acousticness": {
+        "mean": 2,
+        "min": 2,
+        "max": 2,
+        "range": 0,
+        "std": 0.0
+      },
+      "instrumentalness": {
+        "mean": 14,
+        "min": 8,
+        "max": 20,
+        "range": 12,
+        "std": 8.49
+      },
+      "speechiness": {
+        "mean": 4,
+        "min": 3,
+        "max": 5,
+        "range": 2,
+        "std": 1.41
+      },
+      "liveness": {
+        "mean": 12,
+        "min": 11,
+        "max": 13,
+        "range": 2,
+        "std": 1.41
+      },
+      "tempo": {
+        "mean": 156,
+        "min": 145,
+        "max": 167,
+        "range": 22,
+        "std": 15.56
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_020.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 7240719
+  },
+  "original_mbid": "12e42062-3563-4cef-9558-1da5a9cf12dc",
+  "url": "https://www.last.fm/music/Death+Cab+for+Cutie/Codes+and+Keys"
+}

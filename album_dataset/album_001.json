@@ -1,0 +1,136 @@
+{
+  "album_id": "001",
+  "metadata": {
+    "title": "Moon Pix",
+    "artist": "Cat Power",
+    "release_year": 1998,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "folk",
+      "blues",
+      "indie pop",
+      "rock and roll",
+      "indie rock",
+      "downtempo",
+      "pop",
+      "emo",
+      "slowcore",
+      "alternative rock",
+      "jazz",
+      "soft rock",
+      "folk rock",
+      "indie folk",
+      "latin",
+      "electronica",
+      "trip hop",
+      "new weird america",
+      "rock"
+    ],
+    "description": " is the fourth album by  >   (a.k.a.  ). It was released in September 1998 on Matador Records. Prior to recording ,  had planned to retire from the > business, relocating to Portland, Oregon and Prosperity,  Carolina; however, after experiencing a hallucinatory nightmare while staying in a rural farmhouse,  wrote the bulk of  in a single night. In January 1998,  traveled to Melbourne, Australia, to record the album with   and  , of the Australian > band Dirty Three, on  and drums, respectively.",
+    "listeners": 341777,
+    "playcount": 5823902
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "American Flag",
+        "track_number": 1,
+        "id": "dc4bf8e045c727af6d9eb1241a7c6d24",
+        "key": "Ab",
+        "mode": "major",
+        "camelot": "4B",
+        "tempo": 141,
+        "duration": "3:31",
+        "energy": 67,
+        "danceability": 47,
+        "happiness": 40,
+        "acousticness": 9,
+        "instrumentalness": 0,
+        "liveness": 9,
+        "speechiness": 8,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "He Turns Down",
+        "track_number": 2,
+        "id": "cc22cadd0c3174403c1a3284178d9d77",
+        "key": "F",
+        "mode": "major",
+        "camelot": "7B",
+        "tempo": 105,
+        "duration": "5:39",
+        "energy": 25,
+        "danceability": 36,
+        "happiness": 4,
+        "acousticness": 54,
+        "instrumentalness": 1,
+        "liveness": 10,
+        "speechiness": 3,
+        "loudness": "-12 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 41.5,
+        "min": 36,
+        "max": 47,
+        "range": 11,
+        "std": 7.78
+      },
+      "energy": {
+        "mean": 46,
+        "min": 25,
+        "max": 67,
+        "range": 42,
+        "std": 29.7
+      },
+      "acousticness": {
+        "mean": 31.5,
+        "min": 9,
+        "max": 54,
+        "range": 45,
+        "std": 31.82
+      },
+      "instrumentalness": {
+        "mean": 0.5,
+        "min": 0,
+        "max": 1,
+        "range": 1,
+        "std": 0.71
+      },
+      "speechiness": {
+        "mean": 5.5,
+        "min": 3,
+        "max": 8,
+        "range": 5,
+        "std": 3.54
+      },
+      "liveness": {
+        "mean": 9.5,
+        "min": 9,
+        "max": 10,
+        "range": 1,
+        "std": 0.71
+      },
+      "tempo": {
+        "mean": 123,
+        "min": 105,
+        "max": 141,
+        "range": 36,
+        "std": 25.46
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_001.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 5823902
+  },
+  "original_mbid": "187a9d3b-298c-4a69-bbf7-670a4d1cb051",
+  "url": "https://www.last.fm/music/Cat+Power/Moon+Pix"
+}

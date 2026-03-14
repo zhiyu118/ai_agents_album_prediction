@@ -1,0 +1,122 @@
+{
+  "album_id": "051",
+  "metadata": {
+    "title": "Stars",
+    "artist": "Sylvester",
+    "release_year": 1979,
+    "genre": "jazz",
+    "all_genres": [
+      "jazz",
+      "electronica",
+      "electro",
+      "pop",
+      "disco",
+      "soul"
+    ],
+    "description": " is the fifth studio album by   , released in 1979 on the  label.",
+    "listeners": 28742,
+    "playcount": 99338
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Stars",
+        "track_number": 1,
+        "id": "40c430feeb98140b17cfb445979b5855",
+        "key": "A",
+        "mode": "minor",
+        "camelot": "8A",
+        "tempo": 133,
+        "duration": "10:33",
+        "energy": 66,
+        "danceability": 54,
+        "happiness": 88,
+        "acousticness": 1,
+        "instrumentalness": 6,
+        "liveness": 18,
+        "speechiness": 3,
+        "loudness": "-14 dB"
+      },
+      {
+        "track_name": "Body Strong",
+        "track_number": 2,
+        "id": "a1efdb530f6a383067d5927f82583cb3",
+        "key": "A",
+        "mode": "minor",
+        "camelot": "8A",
+        "tempo": 128,
+        "duration": "8:40",
+        "energy": 52,
+        "danceability": 71,
+        "happiness": 73,
+        "acousticness": 0,
+        "instrumentalness": 6,
+        "liveness": 14,
+        "speechiness": 3,
+        "loudness": "-14 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 62.5,
+        "min": 54,
+        "max": 71,
+        "range": 17,
+        "std": 12.02
+      },
+      "energy": {
+        "mean": 59,
+        "min": 52,
+        "max": 66,
+        "range": 14,
+        "std": 9.9
+      },
+      "acousticness": {
+        "mean": 0.5,
+        "min": 0,
+        "max": 1,
+        "range": 1,
+        "std": 0.71
+      },
+      "instrumentalness": {
+        "mean": 6,
+        "min": 6,
+        "max": 6,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3,
+        "min": 3,
+        "max": 3,
+        "range": 0,
+        "std": 0.0
+      },
+      "liveness": {
+        "mean": 16,
+        "min": 14,
+        "max": 18,
+        "range": 4,
+        "std": 2.83
+      },
+      "tempo": {
+        "mean": 130.5,
+        "min": 128,
+        "max": 133,
+        "range": 5,
+        "std": 3.54
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_051.jpg",
+  "ground_truth": {
+    "tier": 1,
+    "tier_label": "Underground/Cult",
+    "tier_description": "Small dedicated fanbase, very limited reach",
+    "playcount_range": "< 100K plays",
+    "actual_playcount": 99338
+  },
+  "original_mbid": "3619ad8e-f26e-44fe-a039-ede2b8921f01",
+  "url": "https://www.last.fm/music/Sylvester/Stars"
+}

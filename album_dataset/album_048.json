@@ -1,0 +1,154 @@
+{
+  "album_id": "048",
+  "metadata": {
+    "title": "Beacon",
+    "artist": "Two Door Cinema Club",
+    "release_year": 2012,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "britpop",
+      "punk",
+      "indie pop",
+      "rock and roll",
+      "indie rock",
+      "electropop",
+      "electronic rock",
+      "pop",
+      "alternative rock",
+      "new rave",
+      "modern rock",
+      "new wave",
+      "power pop",
+      "funk rock",
+      "indietronica",
+      "electronica",
+      "synthpop",
+      "alternative dance",
+      "rock"
+    ],
+    "description": " is the second studio album by Northern > > > band . It was released 31 August 2012. The album was recorded in Los Angeles with producer   in his home studios.",
+    "listeners": 549140,
+    "playcount": 12599335
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Next Year",
+        "track_number": 1,
+        "id": "8c7a2105e438bacdd89b7b0563f0e3ed",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 127,
+        "duration": "4:11",
+        "energy": 81,
+        "danceability": 56,
+        "happiness": 48,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 7,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "Handshake",
+        "track_number": 2,
+        "id": "abf17c394f0df10b8eb22f8c57c42a8e",
+        "key": "C",
+        "mode": "minor",
+        "camelot": "5A",
+        "tempo": 131,
+        "duration": "3:31",
+        "energy": 83,
+        "danceability": 56,
+        "happiness": 82,
+        "acousticness": 0,
+        "instrumentalness": 42,
+        "liveness": 44,
+        "speechiness": 3,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "Wake Up",
+        "track_number": 3,
+        "id": "b2cc5222ed5a341b92912296890a853d",
+        "key": "A#",
+        "mode": "minor",
+        "camelot": "3A",
+        "tempo": 135,
+        "duration": "3:46",
+        "energy": 81,
+        "danceability": 52,
+        "happiness": 69,
+        "acousticness": 0,
+        "instrumentalness": 58,
+        "liveness": 71,
+        "speechiness": 4,
+        "loudness": "-5 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 54.67,
+        "min": 52,
+        "max": 56,
+        "range": 4,
+        "std": 2.31
+      },
+      "energy": {
+        "mean": 81.67,
+        "min": 81,
+        "max": 83,
+        "range": 2,
+        "std": 1.15
+      },
+      "acousticness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "instrumentalness": {
+        "mean": 33.33,
+        "min": 0,
+        "max": 58,
+        "range": 58,
+        "std": 29.96
+      },
+      "speechiness": {
+        "mean": 4.67,
+        "min": 3,
+        "max": 7,
+        "range": 4,
+        "std": 2.08
+      },
+      "liveness": {
+        "mean": 40.67,
+        "min": 7,
+        "max": 71,
+        "range": 64,
+        "std": 32.13
+      },
+      "tempo": {
+        "mean": 131,
+        "min": 127,
+        "max": 135,
+        "range": 8,
+        "std": 4.0
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_048.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 12599335
+  },
+  "original_mbid": "1bb037ff-86ac-4cee-b011-bf1288b8c8b4",
+  "url": "https://www.last.fm/music/Two+Door+Cinema+Club/Beacon"
+}

@@ -1,0 +1,139 @@
+{
+  "album_id": "058",
+  "metadata": {
+    "title": "The Lord of the Rings - The Return of the King - The Complete Recordings (Limited Edition)",
+    "artist": "Howard Shore",
+    "release_year": 2003,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "soundtrack",
+      "metal",
+      "rock",
+      "classical"
+    ],
+    "description": "The Lord of the Rings: The Return of the King  is the > for the 2003 >  adventure > of the same . The  was composed, orchestrated, and conducted by  , and performed by the London Philharmonic >, the London Voices, and the London  School Schola. The > was released on 25 November 2003. The limited edition contains a bonus DVD with the track \"Use Well the Days\" by  , song texts, photo gallery, and a Lord of the Rings trilogy supertrailer.",
+    "listeners": 60231,
+    "playcount": 787997
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Roots and Beginnings",
+        "track_number": 1,
+        "id": "fd142fb5b10bca84fdebc638fa65d833",
+        "key": "D",
+        "mode": "minor",
+        "camelot": "7A",
+        "tempo": 82,
+        "duration": "6:31",
+        "energy": 13,
+        "danceability": 8,
+        "happiness": 4,
+        "acousticness": 85,
+        "instrumentalness": 91,
+        "liveness": 12,
+        "speechiness": 4,
+        "loudness": "-22 dB"
+      },
+      {
+        "track_name": "Journey to the Cross-roads",
+        "track_number": 2,
+        "id": "71a9a3b0d2f910a9a5f323746991a989",
+        "key": "D",
+        "mode": "minor",
+        "camelot": "7A",
+        "tempo": 78,
+        "duration": "2:17",
+        "energy": 3,
+        "danceability": 18,
+        "happiness": 3,
+        "acousticness": 94,
+        "instrumentalness": 87,
+        "liveness": 9,
+        "speechiness": 4,
+        "loudness": "-27 dB"
+      },
+      {
+        "track_name": "The Road to Isengard",
+        "track_number": 3,
+        "id": "98838d151a39d9288232dbf44a3ba39a",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 144,
+        "duration": "2:18",
+        "energy": 8,
+        "danceability": 14,
+        "happiness": 4,
+        "acousticness": 85,
+        "instrumentalness": 98,
+        "liveness": 8,
+        "speechiness": 4,
+        "loudness": "-24 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 13.33,
+        "min": 8,
+        "max": 18,
+        "range": 10,
+        "std": 5.03
+      },
+      "energy": {
+        "mean": 8,
+        "min": 3,
+        "max": 13,
+        "range": 10,
+        "std": 5.0
+      },
+      "acousticness": {
+        "mean": 88,
+        "min": 85,
+        "max": 94,
+        "range": 9,
+        "std": 5.2
+      },
+      "instrumentalness": {
+        "mean": 92,
+        "min": 87,
+        "max": 98,
+        "range": 11,
+        "std": 5.57
+      },
+      "speechiness": {
+        "mean": 4,
+        "min": 4,
+        "max": 4,
+        "range": 0,
+        "std": 0.0
+      },
+      "liveness": {
+        "mean": 9.67,
+        "min": 8,
+        "max": 12,
+        "range": 4,
+        "std": 2.08
+      },
+      "tempo": {
+        "mean": 101.33,
+        "min": 78,
+        "max": 144,
+        "range": 66,
+        "std": 37.0
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_058.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 787997
+  },
+  "original_mbid": "55462600-dbf6-4a43-8f97-c56ef7b740d4",
+  "url": "https://www.last.fm/music/Howard+Shore/The+Lord+of+the+Rings+-+The+Return+of+the+King+-+The+Complete+Recordings+(Limited+Edition)"
+}

@@ -1,0 +1,173 @@
+{
+  "album_id": "014",
+  "metadata": {
+    "title": "Broken Boy Soldiers",
+    "artist": "The Raconteurs",
+    "release_year": 2006,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "ambient",
+      "blues rock",
+      "punk",
+      "progressive rock",
+      "grunge",
+      "metal",
+      "blues",
+      "folk",
+      "nu jazz",
+      "indie pop",
+      "rock and roll",
+      "indie rock",
+      "hip hop",
+      "downtempo",
+      "hard rock",
+      "pop",
+      "emo",
+      "alternative rock",
+      "jazz",
+      "soft rock",
+      "folk rock",
+      "modern rock",
+      "indie folk",
+      "glam rock",
+      "garage rock",
+      "new wave",
+      "power pop",
+      "experimental",
+      "smooth jazz",
+      "soul",
+      "reggae",
+      "easy listening",
+      "roots rock",
+      "disco",
+      "funk",
+      "rock"
+    ],
+    "description": " is the debut album of , released on May 15, 2006 in the United Kingdom and May 16, 2006 in the >. The album was generally favored among critics and spawned the hit single Steady As She Goes. Critics were generally favorable towards . Rolling Stone said of the album \"Expectations were sky-high, but  exceed them all.\" People magazine gave the album three-and-a-half stars, making the album the Critic's Choice of the week; they commented \" incorporates just enough weirdness to  that he () hasn't co",
+    "listeners": 1000054,
+    "playcount": 15218275
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Steady, as She Goes",
+        "track_number": 1,
+        "id": "91e43e1e707bc13e675d8557e9a52f57",
+        "name": "Steady, As She Goes",
+        "album": "Broken Boy Soldiers",
+        "key": "A",
+        "mode": "major",
+        "camelot": "11B",
+        "tempo": 124,
+        "duration": "3:35",
+        "energy": 58,
+        "danceability": 53,
+        "happiness": 54,
+        "acousticness": 1,
+        "instrumentalness": 1,
+        "liveness": 11,
+        "speechiness": 12,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "Hands",
+        "track_number": 2,
+        "id": "34dedfa8feffa51c321334f3cf5745c4",
+        "key": "C#",
+        "mode": "major",
+        "camelot": "3B",
+        "tempo": 97,
+        "duration": "4:01",
+        "energy": 67,
+        "danceability": 33,
+        "happiness": 11,
+        "acousticness": 0,
+        "instrumentalness": 1,
+        "liveness": 26,
+        "speechiness": 3,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Broken Boy Soldier",
+        "track_number": 3,
+        "id": "d08bcac0bc93eedea058ce7b26853bb8",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 138,
+        "duration": "3:02",
+        "energy": 85,
+        "danceability": 40,
+        "happiness": 38,
+        "acousticness": 1,
+        "instrumentalness": 21,
+        "liveness": 33,
+        "speechiness": 6,
+        "loudness": "-5 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 42,
+        "min": 33,
+        "max": 53,
+        "range": 20,
+        "std": 10.15
+      },
+      "energy": {
+        "mean": 70,
+        "min": 58,
+        "max": 85,
+        "range": 27,
+        "std": 13.75
+      },
+      "acousticness": {
+        "mean": 0.67,
+        "min": 0,
+        "max": 1,
+        "range": 1,
+        "std": 0.58
+      },
+      "instrumentalness": {
+        "mean": 7.67,
+        "min": 1,
+        "max": 21,
+        "range": 20,
+        "std": 11.55
+      },
+      "speechiness": {
+        "mean": 7,
+        "min": 3,
+        "max": 12,
+        "range": 9,
+        "std": 4.58
+      },
+      "liveness": {
+        "mean": 23.33,
+        "min": 11,
+        "max": 33,
+        "range": 22,
+        "std": 11.24
+      },
+      "tempo": {
+        "mean": 119.67,
+        "min": 97,
+        "max": 138,
+        "range": 41,
+        "std": 20.84
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_014.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 15218275
+  },
+  "original_mbid": "04afc159-b3a5-3d4f-9827-a83f3a3b194c",
+  "url": "https://www.last.fm/music/The+Raconteurs/Broken+Boy+Soldiers"
+}

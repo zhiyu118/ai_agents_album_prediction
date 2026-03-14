@@ -1,0 +1,139 @@
+{
+  "album_id": "023",
+  "metadata": {
+    "title": "Parallels",
+    "artist": "Fates Warning",
+    "release_year": null,
+    "genre": "symphonic metal",
+    "all_genres": [
+      "symphonic metal",
+      "progressive metal",
+      "progressive rock",
+      "metal",
+      "lullaby"
+    ],
+    "description": " is the sixth studio album by  > > band , released on October 29, 1991, through > Blade Records. The album reached No. 20 on the U.S. Billboard Heatseekers chart.\n , who had recently joined Dream Theater, contributed  vocals on the song \"Life in Still .\" On March 16, 2010, a special edition of  was released through > Blade. This included a remaster of the original album, a bonus disc of live and demo tracks, as well as a DVD.",
+    "listeners": 30840,
+    "playcount": 424168
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Leave the Past Behind",
+        "track_number": 1,
+        "id": "74f28345b243719179da0c5ac9878320",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 126,
+        "duration": "6:15",
+        "energy": 69,
+        "danceability": 48,
+        "happiness": 39,
+        "acousticness": 1,
+        "instrumentalness": 0,
+        "liveness": 8,
+        "speechiness": 4,
+        "loudness": "-11 dB"
+      },
+      {
+        "track_name": "Life In Still Water",
+        "track_number": 2,
+        "id": "6d2b7af0329f1255063858686b77f2d1",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 132,
+        "duration": "5:45",
+        "energy": 79,
+        "danceability": 53,
+        "happiness": 46,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 42,
+        "speechiness": 4,
+        "loudness": "-10 dB"
+      },
+      {
+        "track_name": "Eye to Eye",
+        "track_number": 3,
+        "id": "41b1b78269bc48ba8bbc62cdf9eb1981",
+        "key": "C#",
+        "mode": "minor",
+        "camelot": "12A",
+        "tempo": 115,
+        "duration": "4:05",
+        "energy": 73,
+        "danceability": 53,
+        "happiness": 45,
+        "acousticness": 8,
+        "instrumentalness": 0,
+        "liveness": 23,
+        "speechiness": 3,
+        "loudness": "-9 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 51.33,
+        "min": 48,
+        "max": 53,
+        "range": 5,
+        "std": 2.89
+      },
+      "energy": {
+        "mean": 73.67,
+        "min": 69,
+        "max": 79,
+        "range": 10,
+        "std": 5.03
+      },
+      "acousticness": {
+        "mean": 3,
+        "min": 0,
+        "max": 8,
+        "range": 8,
+        "std": 4.36
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3.67,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 24.33,
+        "min": 8,
+        "max": 42,
+        "range": 34,
+        "std": 17.04
+      },
+      "tempo": {
+        "mean": 124.33,
+        "min": 115,
+        "max": 132,
+        "range": 17,
+        "std": 8.62
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_023.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 424168
+  },
+  "original_mbid": "093aa682-aef7-4863-9686-100ca9cb1900",
+  "url": "https://www.last.fm/music/Fates+Warning/Parallels"
+}

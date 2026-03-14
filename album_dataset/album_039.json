@@ -1,0 +1,139 @@
+{
+  "album_id": "039",
+  "metadata": {
+    "title": "Get the Picture?",
+    "artist": "The Pretty Things",
+    "release_year": 1965,
+    "genre": "blues rock",
+    "all_genres": [
+      "blues rock",
+      "psychedelic rock",
+      "rhythm and blues",
+      "blues",
+      "rock"
+    ],
+    "description": " is the second album by the English > band Pretty Things, released in 1965.",
+    "listeners": 48444,
+    "playcount": 261606
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "You Don't Believe Me",
+        "track_number": 1,
+        "id": "d9b1b7291a24f89ca30e824822d0a539",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 121,
+        "duration": "2:23",
+        "energy": 66,
+        "danceability": 43,
+        "happiness": 78,
+        "acousticness": 15,
+        "instrumentalness": 0,
+        "liveness": 41,
+        "speechiness": 4,
+        "loudness": "-14 dB"
+      },
+      {
+        "track_name": "Buzz the Jerk",
+        "track_number": 2,
+        "id": "8aad0939e84dd9b8f67c8e71cebde4b4",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 122,
+        "duration": "1:54",
+        "energy": 70,
+        "danceability": 56,
+        "happiness": 87,
+        "acousticness": 37,
+        "instrumentalness": 9,
+        "liveness": 41,
+        "speechiness": 10,
+        "loudness": "-15 dB"
+      },
+      {
+        "track_name": "Get the Picture?",
+        "track_number": 3,
+        "id": "8d50e71953066743dd53043c68b6159c",
+        "key": "A",
+        "mode": "minor",
+        "camelot": "8A",
+        "tempo": 131,
+        "duration": "1:56",
+        "energy": 64,
+        "danceability": 67,
+        "happiness": 72,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 10,
+        "speechiness": 6,
+        "loudness": "-15 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 55.33,
+        "min": 43,
+        "max": 67,
+        "range": 24,
+        "std": 12.01
+      },
+      "energy": {
+        "mean": 66.67,
+        "min": 64,
+        "max": 70,
+        "range": 6,
+        "std": 3.06
+      },
+      "acousticness": {
+        "mean": 18,
+        "min": 2,
+        "max": 37,
+        "range": 35,
+        "std": 17.69
+      },
+      "instrumentalness": {
+        "mean": 3,
+        "min": 0,
+        "max": 9,
+        "range": 9,
+        "std": 5.2
+      },
+      "speechiness": {
+        "mean": 6.67,
+        "min": 4,
+        "max": 10,
+        "range": 6,
+        "std": 3.06
+      },
+      "liveness": {
+        "mean": 30.67,
+        "min": 10,
+        "max": 41,
+        "range": 31,
+        "std": 17.9
+      },
+      "tempo": {
+        "mean": 124.67,
+        "min": 121,
+        "max": 131,
+        "range": 10,
+        "std": 5.51
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_039.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 261606
+  },
+  "original_mbid": "425fde10-5af1-438b-8d95-e60fee3b30a4",
+  "url": "https://www.last.fm/music/The+Pretty+Things/Get+the+Picture%3F"
+}

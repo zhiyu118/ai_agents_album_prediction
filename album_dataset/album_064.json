@@ -1,0 +1,153 @@
+{
+  "album_id": "064",
+  "metadata": {
+    "title": "Abyss",
+    "artist": "Chelsea Wolfe",
+    "release_year": 2015,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "parody",
+      "gothic rock",
+      "noise",
+      "metal",
+      "hip hop",
+      "schlager",
+      "rap",
+      "emo",
+      "pop",
+      "classical",
+      "visual kei",
+      "anime",
+      "gothic metal",
+      "comedy",
+      "easy listening",
+      "symphonic metal",
+      "bubblegum pop",
+      "rock"
+    ],
+    "description": "“ is meant to have the feeling of when you’re dreaming, and you briefly wake up, but then fall back asleep into the same dream, diving quickly into your own subconscious,” says .To conjure this in-between ,  continued her ongoing collaboration with multi-instrumentalist and co-writer   and drummer  , with   brought on board to play  and   (Russian Circles) enlisted to contribute . The ensemble travelled to Dallas, TX to record with producer   (Swans, St. Vincent). In the back of her mind burned ",
+    "listeners": 87862,
+    "playcount": 2351626
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Carrion Flowers",
+        "track_number": 1,
+        "id": "f169934ef7a96f99e15ffbdd32f83a1c",
+        "key": "C#",
+        "mode": "minor",
+        "camelot": "12A",
+        "tempo": 127,
+        "duration": "4:51",
+        "energy": 51,
+        "danceability": 44,
+        "happiness": 5,
+        "acousticness": 1,
+        "instrumentalness": 59,
+        "liveness": 10,
+        "speechiness": 4,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Iron Moon",
+        "track_number": 2,
+        "id": "6f728cd28685ef0e1d17f55d49340217",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 98,
+        "duration": "5:47",
+        "energy": 41,
+        "danceability": 32,
+        "happiness": 14,
+        "acousticness": 6,
+        "instrumentalness": 68,
+        "liveness": 11,
+        "speechiness": 3,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Dragged Out",
+        "track_number": 3,
+        "id": "c73b1635f67d0682cef1291d5b67c164",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 120,
+        "duration": "4:20",
+        "energy": 56,
+        "danceability": 29,
+        "happiness": 6,
+        "acousticness": 0,
+        "instrumentalness": 75,
+        "liveness": 38,
+        "speechiness": 4,
+        "loudness": "-7 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 35,
+        "min": 29,
+        "max": 44,
+        "range": 15,
+        "std": 7.94
+      },
+      "energy": {
+        "mean": 49.33,
+        "min": 41,
+        "max": 56,
+        "range": 15,
+        "std": 7.64
+      },
+      "acousticness": {
+        "mean": 2.33,
+        "min": 0,
+        "max": 6,
+        "range": 6,
+        "std": 3.21
+      },
+      "instrumentalness": {
+        "mean": 67.33,
+        "min": 59,
+        "max": 75,
+        "range": 16,
+        "std": 8.02
+      },
+      "speechiness": {
+        "mean": 3.67,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 19.67,
+        "min": 10,
+        "max": 38,
+        "range": 28,
+        "std": 15.89
+      },
+      "tempo": {
+        "mean": 115,
+        "min": 98,
+        "max": 127,
+        "range": 29,
+        "std": 15.13
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_064.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 2351626
+  },
+  "original_mbid": "0995ef61-d275-44f8-a780-c226489ba2d7",
+  "url": "https://www.last.fm/music/Chelsea+Wolfe/Abyss"
+}

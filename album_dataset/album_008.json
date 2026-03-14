@@ -1,0 +1,146 @@
+{
+  "album_id": "008",
+  "metadata": {
+    "title": "Night Time, My Time",
+    "artist": "Sky Ferreira",
+    "release_year": 2013,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "britpop",
+      "ethereal wave",
+      "noise",
+      "grunge",
+      "indie pop",
+      "techno",
+      "indie rock",
+      "downtempo",
+      "art rock",
+      "futurepop",
+      "shoegaze",
+      "noise pop",
+      "electropop",
+      "electronic rock",
+      "house",
+      "pop",
+      "noise rock",
+      "europop",
+      "alternative rock",
+      "electroclash",
+      "new rave",
+      "coldwave",
+      "new wave",
+      "indietronica",
+      "synthpop",
+      "alternative dance",
+      "electro",
+      "rock",
+      "dream pop"
+    ],
+    "description": " is the debut studio album by    , released on October 29, 2013, by Capitol Records. The album was originally set to be released in 2011, following the singles \"17\", \"One\" and \"Obsession\". However, they became commercial failures and caused her label to postpone the album repeatedly. As a result, many recording sessions were held for the album; some of which went towards two EPs, As If! (2011) and Ghost (2012). Musically, it is an > > and -> album that explores 1980s > >, 1990s >, and various st",
+    "listeners": 457871,
+    "playcount": 15900395
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Boys",
+        "track_number": 1,
+        "id": "d5795ac41aebb140aa2e446ed3a67576",
+        "key": "B",
+        "mode": "major",
+        "camelot": "1B",
+        "tempo": 130,
+        "duration": "4:40",
+        "energy": 87,
+        "danceability": 41,
+        "happiness": 27,
+        "acousticness": 0,
+        "instrumentalness": 0,
+        "liveness": 32,
+        "speechiness": 6,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "24 Hours",
+        "track_number": 3,
+        "id": "43f8b764660d553ee6804335319f3015",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 108,
+        "duration": "4:04",
+        "energy": 87,
+        "danceability": 52,
+        "happiness": 25,
+        "acousticness": 3,
+        "instrumentalness": 0,
+        "liveness": 28,
+        "speechiness": 4,
+        "loudness": "-4 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 46.5,
+        "min": 41,
+        "max": 52,
+        "range": 11,
+        "std": 7.78
+      },
+      "energy": {
+        "mean": 87,
+        "min": 87,
+        "max": 87,
+        "range": 0,
+        "std": 0.0
+      },
+      "acousticness": {
+        "mean": 1.5,
+        "min": 0,
+        "max": 3,
+        "range": 3,
+        "std": 2.12
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 5,
+        "min": 4,
+        "max": 6,
+        "range": 2,
+        "std": 1.41
+      },
+      "liveness": {
+        "mean": 30,
+        "min": 28,
+        "max": 32,
+        "range": 4,
+        "std": 2.83
+      },
+      "tempo": {
+        "mean": 119,
+        "min": 108,
+        "max": 130,
+        "range": 22,
+        "std": 15.56
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_008.jpg",
+  "ground_truth": {
+    "tier": 4,
+    "tier_label": "Major Success",
+    "tier_description": "Mainstream hit, widespread recognition",
+    "playcount_range": "10M - 100M plays",
+    "actual_playcount": 15900395
+  },
+  "original_mbid": "12eaf3d1-39ec-476b-ba8b-edb2bec4cb28",
+  "url": "https://www.last.fm/music/Sky+Ferreira/Night+Time,+My+Time"
+}

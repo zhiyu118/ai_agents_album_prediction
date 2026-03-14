@@ -1,0 +1,163 @@
+{
+  "album_id": "004",
+  "metadata": {
+    "title": "Luck of the Draw",
+    "artist": "Bonnie Raitt",
+    "release_year": 1991,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "blues rock",
+      "progressive rock",
+      "country pop",
+      "folk",
+      "blues",
+      "rock and roll",
+      "downtempo",
+      "house",
+      "pop",
+      "country rock",
+      "southern rock",
+      "alternative rock",
+      "jazz",
+      "country",
+      "soft rock",
+      "rockabilly",
+      "folk rock",
+      "soundtrack",
+      "soul",
+      "smooth jazz",
+      "easy listening",
+      "lounge",
+      "motown",
+      "rock"
+    ],
+    "description": " is the eleventh studio album by  tt, released in 1991.\nAfter being nominated for Grammy awards in four different categories for the album Nick of Time, tt went for a creative retreat in Northern California to begin work on . \"I did it on purpose to see if I could come up with anything,\" tt said in 1991. \"In case I won, I wanted to make sure that I had done some  and didn't feel that Nick of Time was a fluke. I didn't want to win just 'cause I quit drinking and spent twenty years not making any ",
+    "listeners": 263390,
+    "playcount": 1351883
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Something to Talk About",
+        "track_number": 1,
+        "id": "229f3449619839fe40d7ee177b38c807",
+        "name": "Something To Talk About",
+        "album": "Luck Of The Draw",
+        "key": "C#",
+        "mode": "major",
+        "camelot": "3B",
+        "tempo": 103,
+        "duration": "3:47",
+        "energy": 64,
+        "danceability": 80,
+        "happiness": 95,
+        "acousticness": 6,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 3,
+        "loudness": "-13 dB"
+      },
+      {
+        "track_name": "Good Man, Good Woman",
+        "track_number": 2,
+        "id": "ab3b51de8b406cd2886692e63af8e931",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 107,
+        "duration": "3:34",
+        "energy": 43,
+        "danceability": 80,
+        "happiness": 68,
+        "acousticness": 1,
+        "instrumentalness": 0,
+        "liveness": 28,
+        "speechiness": 4,
+        "loudness": "-14 dB"
+      },
+      {
+        "track_name": "I Can't Make You Love Me",
+        "track_number": 3,
+        "id": "7bdb2f450de7ef00b39c358fd5d84207",
+        "name": "I Can't Make You Love Me",
+        "album": "Luck Of The Draw",
+        "key": "G",
+        "mode": "minor",
+        "camelot": "6A",
+        "tempo": 125,
+        "duration": "5:32",
+        "energy": 15,
+        "danceability": 59,
+        "happiness": 11,
+        "acousticness": 85,
+        "instrumentalness": 0,
+        "liveness": 24,
+        "speechiness": 3,
+        "loudness": "-17 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 73,
+        "min": 59,
+        "max": 80,
+        "range": 21,
+        "std": 12.12
+      },
+      "energy": {
+        "mean": 40.67,
+        "min": 15,
+        "max": 64,
+        "range": 49,
+        "std": 24.58
+      },
+      "acousticness": {
+        "mean": 30.67,
+        "min": 1,
+        "max": 85,
+        "range": 84,
+        "std": 47.12
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3.33,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 19.67,
+        "min": 7,
+        "max": 28,
+        "range": 21,
+        "std": 11.15
+      },
+      "tempo": {
+        "mean": 111.67,
+        "min": 103,
+        "max": 125,
+        "range": 22,
+        "std": 11.72
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_004.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1351883
+  },
+  "original_mbid": "034cf86e-5f33-4061-933f-0d27eff0aab5",
+  "url": "https://www.last.fm/music/Bonnie+Raitt/Luck+of+the+Draw"
+}

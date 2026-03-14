@@ -1,0 +1,146 @@
+{
+  "album_id": "055",
+  "metadata": {
+    "title": "Ingénue (25th Anniversary Edition)",
+    "artist": "k.d. lang",
+    "release_year": 1992,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "jazz",
+      "country",
+      "soft rock",
+      "lounge",
+      "folk rock",
+      "indie folk",
+      "art pop",
+      "pop",
+      "folk",
+      "easy listening",
+      "cabaret"
+    ],
+    "description": "Ingénue is the second solo album by Canadian  , released in 1992. It is 's most successful album on the > charts, both in her native Canada and internationally, and has more of a > flavor than her earlier more >-influenced work.\n\n",
+    "listeners": 13199,
+    "playcount": 112188
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Save Me",
+        "track_number": 1,
+        "id": "ab4ecb14e1ce9fdc5ab52605a90fa8b8",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 89,
+        "duration": "4:33",
+        "energy": 27,
+        "danceability": 55,
+        "happiness": 24,
+        "acousticness": 47,
+        "instrumentalness": 0,
+        "liveness": 12,
+        "speechiness": 2,
+        "loudness": "-14 dB"
+      },
+      {
+        "track_name": "The Mind Of Love",
+        "track_number": 2,
+        "id": "ced52560adef9fa31b72da7b0ed896cb",
+        "key": "F",
+        "mode": "major",
+        "camelot": "7B",
+        "tempo": 95,
+        "duration": "3:49",
+        "energy": 34,
+        "danceability": 60,
+        "happiness": 33,
+        "acousticness": 71,
+        "instrumentalness": 0,
+        "liveness": 18,
+        "speechiness": 2,
+        "loudness": "-13 dB"
+      },
+      {
+        "track_name": "Miss Chatelaine",
+        "track_number": 3,
+        "id": "4ceb3603675c7ce80409c2550a6fed3b",
+        "key": "E",
+        "mode": "major",
+        "camelot": "12B",
+        "tempo": 103,
+        "duration": "3:50",
+        "energy": 79,
+        "danceability": 53,
+        "happiness": 31,
+        "acousticness": 14,
+        "instrumentalness": 0,
+        "liveness": 13,
+        "speechiness": 5,
+        "loudness": "-6 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 56,
+        "min": 53,
+        "max": 60,
+        "range": 7,
+        "std": 3.61
+      },
+      "energy": {
+        "mean": 46.67,
+        "min": 27,
+        "max": 79,
+        "range": 52,
+        "std": 28.22
+      },
+      "acousticness": {
+        "mean": 44,
+        "min": 14,
+        "max": 71,
+        "range": 57,
+        "std": 28.62
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3,
+        "min": 2,
+        "max": 5,
+        "range": 3,
+        "std": 1.73
+      },
+      "liveness": {
+        "mean": 14.33,
+        "min": 12,
+        "max": 18,
+        "range": 6,
+        "std": 3.21
+      },
+      "tempo": {
+        "mean": 95.67,
+        "min": 89,
+        "max": 103,
+        "range": 14,
+        "std": 7.02
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_055.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 112188
+  },
+  "original_mbid": "60ea6312-9d6e-4830-9099-de3d285320b1",
+  "url": "https://www.last.fm/music/k.d.+lang/Ing%C3%A9nue+(25th+Anniversary+Edition)"
+}

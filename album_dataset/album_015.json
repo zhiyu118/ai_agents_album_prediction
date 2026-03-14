@@ -1,0 +1,136 @@
+{
+  "album_id": "015",
+  "metadata": {
+    "title": "Back Of My Lac'",
+    "artist": "J. Holiday",
+    "release_year": 2007,
+    "genre": "hip hop",
+    "all_genres": [
+      "hip hop",
+      "soul"
+    ],
+    "description": " is the debut studio album from  >    that was released in the > on October 2, 2007, by > Line Group and Capitol Records. Production for this album was handled by Los Da Mystro, Darkchild, The-Dream, The Platinum Brothers,  antz,  , J.U.S.T.I.C.E. League,   and  \nThe album was supported by three singles, \"Be with Me\", \"Bed\" and \"Suffocate\".\nUpon its release,  received generally mixed reviews from > critics. The album debuted at number five on the US Billboard 200, selling 105,000 copies in its f",
+    "listeners": 522763,
+    "playcount": 2101802
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Back Of My Lac",
+        "track_number": 1,
+        "id": "73395b52110bff4c48053a9e47d4d2e8",
+        "key": "F#",
+        "mode": "major",
+        "camelot": "2B",
+        "tempo": 82,
+        "duration": "4:49",
+        "energy": 65,
+        "danceability": 70,
+        "happiness": 57,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 24,
+        "speechiness": 18,
+        "loudness": "-5 dB"
+      },
+      {
+        "track_name": "Ghetto",
+        "track_number": 2,
+        "id": "ffba2bf6f26630abf56f40e1a017aef6",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 82,
+        "duration": "4:11",
+        "energy": 67,
+        "danceability": 46,
+        "happiness": 50,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 25,
+        "speechiness": 24,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "Thug Commandments",
+        "track_number": 3,
+        "id": "4eaf48ad87725e9e4690b96d03051e7a",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 79,
+        "duration": "3:29",
+        "energy": 74,
+        "danceability": 67,
+        "happiness": 77,
+        "acousticness": 2,
+        "instrumentalness": 0,
+        "liveness": 14,
+        "speechiness": 10,
+        "loudness": "-3 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 61,
+        "min": 46,
+        "max": 70,
+        "range": 24,
+        "std": 13.08
+      },
+      "energy": {
+        "mean": 68.67,
+        "min": 65,
+        "max": 74,
+        "range": 9,
+        "std": 4.73
+      },
+      "acousticness": {
+        "mean": 2,
+        "min": 2,
+        "max": 2,
+        "range": 0,
+        "std": 0.0
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 17.33,
+        "min": 10,
+        "max": 24,
+        "range": 14,
+        "std": 7.02
+      },
+      "liveness": {
+        "mean": 21,
+        "min": 14,
+        "max": 25,
+        "range": 11,
+        "std": 6.08
+      },
+      "tempo": {
+        "mean": 81,
+        "min": 79,
+        "max": 82,
+        "range": 3,
+        "std": 1.73
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_015.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 2101802
+  },
+  "original_mbid": "1b11dae0-5b4b-4c90-96dc-dc7e345c9f6d",
+  "url": "https://www.last.fm/music/J.+Holiday/Back+Of+My+Lac%27"
+}

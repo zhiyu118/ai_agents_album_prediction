@@ -1,0 +1,134 @@
+{
+  "album_id": "054",
+  "metadata": {
+    "title": "Diamond Life",
+    "artist": "Sade",
+    "release_year": 1984,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "quiet storm",
+      "blues",
+      "cool jazz",
+      "pop",
+      "neo soul",
+      "jazz",
+      "country",
+      "soft rock",
+      "acid jazz",
+      "vocal jazz",
+      "latin",
+      "soul",
+      "smooth jazz",
+      "easy listening",
+      "lounge",
+      "funk",
+      "rock"
+    ],
+    "description": " is the debut studio album by English band , released in the United Kingdom on July 16, 1984 by > Records, and in the > on February 27, 1985 by Portrait Records. After studying fashion design, and later modelling,   began backup-singing with > band Pride. During this time  and three of the original members of \"Pride\"—  ,   and  —left the group to form their own band called . After various demos and performances,  received interest from record labels and signed to >. Recording for the album began",
+    "listeners": 362197,
+    "playcount": 4446766
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Smooth Operator",
+        "track_number": 1,
+        "id": "69831531ff9f38299476f1095a0c4d29",
+        "key": "A",
+        "mode": "minor",
+        "camelot": "8A",
+        "tempo": 119,
+        "duration": "4:19",
+        "energy": 58,
+        "danceability": 73,
+        "happiness": 96,
+        "acousticness": 24,
+        "instrumentalness": 0,
+        "liveness": 3,
+        "speechiness": 3,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Hang On to Your Love",
+        "track_number": 3,
+        "id": "3b776498d6427e09569049bf72407269",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 108,
+        "duration": "4:30",
+        "energy": 70,
+        "danceability": 85,
+        "happiness": 96,
+        "acousticness": 15,
+        "instrumentalness": 0,
+        "liveness": 7,
+        "speechiness": 3,
+        "loudness": "-6 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 79,
+        "min": 73,
+        "max": 85,
+        "range": 12,
+        "std": 8.49
+      },
+      "energy": {
+        "mean": 64,
+        "min": 58,
+        "max": 70,
+        "range": 12,
+        "std": 8.49
+      },
+      "acousticness": {
+        "mean": 19.5,
+        "min": 15,
+        "max": 24,
+        "range": 9,
+        "std": 6.36
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3,
+        "min": 3,
+        "max": 3,
+        "range": 0,
+        "std": 0.0
+      },
+      "liveness": {
+        "mean": 5,
+        "min": 3,
+        "max": 7,
+        "range": 4,
+        "std": 2.83
+      },
+      "tempo": {
+        "mean": 113.5,
+        "min": 108,
+        "max": 119,
+        "range": 11,
+        "std": 7.78
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_054.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 4446766
+  },
+  "original_mbid": "0ac051e2-2b4b-3855-8581-ea58b8bcfd64",
+  "url": "https://www.last.fm/music/Sade/Diamond+Life"
+}

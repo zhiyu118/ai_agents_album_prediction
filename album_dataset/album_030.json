@@ -1,0 +1,145 @@
+{
+  "album_id": "030",
+  "metadata": {
+    "title": "Stay With You",
+    "artist": "Lemon Jelly",
+    "release_year": 2004,
+    "genre": "hip hop",
+    "all_genres": [
+      "hip hop",
+      "downtempo",
+      "jazz",
+      "electronica",
+      "alternative dance",
+      "trip hop",
+      "trance",
+      "electro",
+      "pop",
+      "breakbeat",
+      "techno"
+    ],
+    "description": "\"\" is a single by . It samples \"I Wanna \" by  and .  It charted at number 31 in the UK Singles Chart in December 2004.",
+    "listeners": 39155,
+    "playcount": 136789
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Stay With You (radio version)",
+        "track_number": 1,
+        "id": "ccdc5ab7aa17505db9a2d497fa23a354",
+        "key": "C#",
+        "mode": "major",
+        "camelot": "3B",
+        "tempo": 126,
+        "duration": "6:12",
+        "energy": 83,
+        "danceability": 71,
+        "happiness": 31,
+        "acousticness": 3,
+        "instrumentalness": 80,
+        "liveness": 12,
+        "speechiness": 4,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Rolled",
+        "track_number": 2,
+        "id": "6dd4c4d758c129c0c67325e1fbaddb08",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 91,
+        "duration": "5:36",
+        "energy": 78,
+        "danceability": 56,
+        "happiness": 26,
+        "acousticness": 5,
+        "instrumentalness": 79,
+        "liveness": 10,
+        "speechiness": 3,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "The Fruity Track",
+        "track_number": 3,
+        "id": "4c448e7fd26e0d5198d6120301ae6290",
+        "key": "F#",
+        "mode": "major",
+        "camelot": "2B",
+        "tempo": 121,
+        "duration": "4:33",
+        "energy": 83,
+        "danceability": 65,
+        "happiness": 19,
+        "acousticness": 0,
+        "instrumentalness": 93,
+        "liveness": 14,
+        "speechiness": 3,
+        "loudness": "-6 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 64,
+        "min": 56,
+        "max": 71,
+        "range": 15,
+        "std": 7.55
+      },
+      "energy": {
+        "mean": 81.33,
+        "min": 78,
+        "max": 83,
+        "range": 5,
+        "std": 2.89
+      },
+      "acousticness": {
+        "mean": 2.67,
+        "min": 0,
+        "max": 5,
+        "range": 5,
+        "std": 2.52
+      },
+      "instrumentalness": {
+        "mean": 84,
+        "min": 79,
+        "max": 93,
+        "range": 14,
+        "std": 7.81
+      },
+      "speechiness": {
+        "mean": 3.33,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 12,
+        "min": 10,
+        "max": 14,
+        "range": 4,
+        "std": 2.0
+      },
+      "tempo": {
+        "mean": 112.67,
+        "min": 91,
+        "max": 126,
+        "range": 35,
+        "std": 18.93
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_030.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 136789
+  },
+  "original_mbid": "0e0842b7-5ff5-4c89-ab2f-98b914d81cbc",
+  "url": "https://www.last.fm/music/Lemon+Jelly/Stay+With+You"
+}

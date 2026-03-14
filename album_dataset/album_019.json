@@ -1,0 +1,136 @@
+{
+  "album_id": "019",
+  "metadata": {
+    "title": "Black Dog Barking (Special Edition)",
+    "artist": "Airbourne",
+    "release_year": 2013,
+    "genre": "rock",
+    "all_genres": [
+      "rock",
+      "hard rock"
+    ],
+    "description": "Black Dog Barking is the third studio album by the Australian > > band  and the follow-up to their 2010 album No Guts. No Glory. The album was released in Europe and Australia on 20 May 2013, and worldwide on 21 May 2013.",
+    "listeners": 60326,
+    "playcount": 546914
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Ready to Rock",
+        "track_number": 1,
+        "id": "9b8e614d9c68ebb752354fb15b253e95",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 185,
+        "duration": "5:25",
+        "energy": 100,
+        "danceability": 19,
+        "happiness": 6,
+        "acousticness": 0,
+        "instrumentalness": 85,
+        "liveness": 13,
+        "speechiness": 14,
+        "loudness": "-3 dB"
+      },
+      {
+        "track_name": "Animalize",
+        "track_number": 2,
+        "id": "e291014360e2ef2a57090a3cf2235a9c",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 134,
+        "duration": "3:03",
+        "energy": 96,
+        "danceability": 62,
+        "happiness": 52,
+        "acousticness": 0,
+        "instrumentalness": 16,
+        "liveness": 8,
+        "speechiness": 5,
+        "loudness": "-3 dB"
+      },
+      {
+        "track_name": "No One Fits Me (Better Than You)",
+        "track_number": 3,
+        "id": "ebb9a9823e2b2fd46a0adf66225419b4",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 136,
+        "duration": "3:07",
+        "energy": 97,
+        "danceability": 62,
+        "happiness": 64,
+        "acousticness": 3,
+        "instrumentalness": 2,
+        "liveness": 5,
+        "speechiness": 9,
+        "loudness": "-2 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 47.67,
+        "min": 19,
+        "max": 62,
+        "range": 43,
+        "std": 24.83
+      },
+      "energy": {
+        "mean": 97.67,
+        "min": 96,
+        "max": 100,
+        "range": 4,
+        "std": 2.08
+      },
+      "acousticness": {
+        "mean": 1,
+        "min": 0,
+        "max": 3,
+        "range": 3,
+        "std": 1.73
+      },
+      "instrumentalness": {
+        "mean": 34.33,
+        "min": 2,
+        "max": 85,
+        "range": 83,
+        "std": 44.43
+      },
+      "speechiness": {
+        "mean": 9.33,
+        "min": 5,
+        "max": 14,
+        "range": 9,
+        "std": 4.51
+      },
+      "liveness": {
+        "mean": 8.67,
+        "min": 5,
+        "max": 13,
+        "range": 8,
+        "std": 4.04
+      },
+      "tempo": {
+        "mean": 151.67,
+        "min": 134,
+        "max": 185,
+        "range": 51,
+        "std": 28.88
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_019.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 546914
+  },
+  "original_mbid": "f1e6953a-18a9-4039-ad3a-1f057877f6c8",
+  "url": "https://www.last.fm/music/Airbourne/Black+Dog+Barking+(Special+Edition)"
+}

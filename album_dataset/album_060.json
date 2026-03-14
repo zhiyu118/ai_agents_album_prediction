@@ -1,0 +1,141 @@
+{
+  "album_id": "060",
+  "metadata": {
+    "title": "Pirates of the Caribbean: At World's End",
+    "artist": "Hans Zimmer",
+    "release_year": 2007,
+    "genre": "alternative rock",
+    "all_genres": [
+      "alternative rock",
+      "new beat",
+      "soundtrack",
+      "smooth jazz",
+      "folk",
+      "easy listening",
+      "classical"
+    ],
+    "description": " is the > for the > movie of the same title, . It is composed by  , and features additional > by  ,  ,  -,  ,  ,  ,    and  .\n City's initial retail shipments of the album included a free movie poster at checkout, with a minimum ten per store. Best Buy had an exclusive  code, rather than extra tracks as in the previous >.\nThe > debuted at #14 on the US Billboard 200, selling about 35,000 copies in its first week. As of July 11, 2007, the album has sold 118,919 copies in the >.",
+    "listeners": 116018,
+    "playcount": 2682488
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Hoist the Colours",
+        "track_number": 1,
+        "id": "95540047f1128a8a35c13190aa2d0c12",
+        "key": "G",
+        "mode": "minor",
+        "camelot": "6A",
+        "tempo": 80,
+        "duration": "1:31",
+        "energy": 8,
+        "danceability": 34,
+        "happiness": 29,
+        "acousticness": 66,
+        "instrumentalness": 0,
+        "liveness": 54,
+        "speechiness": 4,
+        "loudness": "-24 dB"
+      },
+      {
+        "track_name": "Singapore - Score",
+        "track_number": 2,
+        "id": "5cda9aff841f3849eafa803a0eea0107",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 94,
+        "duration": "3:41",
+        "energy": 25,
+        "danceability": 22,
+        "happiness": 13,
+        "acousticness": 18,
+        "instrumentalness": 59,
+        "liveness": 11,
+        "speechiness": 4,
+        "loudness": "-16 dB"
+      },
+      {
+        "track_name": "At Wit's End - Score",
+        "track_number": 3,
+        "id": "e3308b6ccb0aecb7358a8d62d9a5316d",
+        "key": "D",
+        "mode": "minor",
+        "camelot": "7A",
+        "tempo": 64,
+        "duration": "8:06",
+        "energy": 17,
+        "danceability": 6,
+        "happiness": 4,
+        "acousticness": 60,
+        "instrumentalness": 89,
+        "liveness": 11,
+        "speechiness": 5,
+        "loudness": "-19 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 20.67,
+        "min": 6,
+        "max": 34,
+        "range": 28,
+        "std": 14.05
+      },
+      "energy": {
+        "mean": 16.67,
+        "min": 8,
+        "max": 25,
+        "range": 17,
+        "std": 8.5
+      },
+      "acousticness": {
+        "mean": 48,
+        "min": 18,
+        "max": 66,
+        "range": 48,
+        "std": 26.15
+      },
+      "instrumentalness": {
+        "mean": 49.33,
+        "min": 0,
+        "max": 89,
+        "range": 89,
+        "std": 45.28
+      },
+      "speechiness": {
+        "mean": 4.33,
+        "min": 4,
+        "max": 5,
+        "range": 1,
+        "std": 0.58
+      },
+      "liveness": {
+        "mean": 25.33,
+        "min": 11,
+        "max": 54,
+        "range": 43,
+        "std": 24.83
+      },
+      "tempo": {
+        "mean": 79.33,
+        "min": 64,
+        "max": 94,
+        "range": 30,
+        "std": 15.01
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_060.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 2682488
+  },
+  "original_mbid": "47a64817-8903-4f79-aef4-127a33ce2e7e",
+  "url": "https://www.last.fm/music/Hans+Zimmer/Pirates+of+the+Caribbean:+At+World%27s+End"
+}

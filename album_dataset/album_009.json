@@ -1,0 +1,135 @@
+{
+  "album_id": "009",
+  "metadata": {
+    "title": "Double Wide",
+    "artist": "Uncle Kracker",
+    "release_year": 2000,
+    "genre": "pop rock",
+    "all_genres": [
+      "pop rock",
+      "hip hop",
+      "easy listening",
+      "alternative rock",
+      "country",
+      "soft rock",
+      "soul",
+      "country pop",
+      "pop",
+      "emo",
+      "country rock",
+      "folk",
+      "rock",
+      "southern rock"
+    ],
+    "description": " is the debut studio album by  recording artist  . It was released on May 30, 2000,  Lava/Atlantic Records. Recording sessions took place on the back of a tour bus parked in various motels and arena parking lots across the >. Production was mostly handled by Kid > with  . The > of the album is noted for its eclectic style, categorized by AllMusic as >, > > and >. Additionally, the album also incorporates elements of >, > and roll, > > and >.\nThe album reached top 10 in Germany, Austria and the >",
+    "listeners": 196850,
+    "playcount": 1141661
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Intro",
+        "track_number": 1,
+        "id": "a421c249ac06bf75d6fae7ea5c30d02a",
+        "key": "A#",
+        "mode": "minor",
+        "camelot": "3A",
+        "tempo": 78,
+        "duration": "1:20",
+        "energy": 39,
+        "danceability": 38,
+        "happiness": 12,
+        "acousticness": 12,
+        "instrumentalness": 0,
+        "liveness": 11,
+        "speechiness": 4,
+        "loudness": "-15 dB"
+      },
+      {
+        "track_name": "Better Days",
+        "track_number": 2,
+        "id": "e35718741c61ded3199dbe8830accadf",
+        "key": "F#",
+        "mode": "minor",
+        "camelot": "11A",
+        "tempo": 150,
+        "duration": "4:51",
+        "energy": 60,
+        "danceability": 67,
+        "happiness": 37,
+        "acousticness": 3,
+        "instrumentalness": 0,
+        "liveness": 11,
+        "speechiness": 5,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "What 'Chu Lookin' At?",
+        "track_number": 3,
+        "id": "8c2cdb8fbd0fe192802752ffdfc88d35"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 52.5,
+        "min": 38,
+        "max": 67,
+        "range": 29,
+        "std": 20.51
+      },
+      "energy": {
+        "mean": 49.5,
+        "min": 39,
+        "max": 60,
+        "range": 21,
+        "std": 14.85
+      },
+      "acousticness": {
+        "mean": 7.5,
+        "min": 3,
+        "max": 12,
+        "range": 9,
+        "std": 6.36
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 4.5,
+        "min": 4,
+        "max": 5,
+        "range": 1,
+        "std": 0.71
+      },
+      "liveness": {
+        "mean": 11,
+        "min": 11,
+        "max": 11,
+        "range": 0,
+        "std": 0.0
+      },
+      "tempo": {
+        "mean": 114,
+        "min": 78,
+        "max": 150,
+        "range": 72,
+        "std": 50.91
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_009.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1141661
+  },
+  "original_mbid": "c25c1173-080c-4527-816a-e08080761768",
+  "url": "https://www.last.fm/music/Uncle+Kracker/Double+Wide"
+}

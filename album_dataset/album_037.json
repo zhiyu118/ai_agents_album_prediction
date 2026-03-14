@@ -1,0 +1,148 @@
+{
+  "album_id": "037",
+  "metadata": {
+    "title": "All I Have",
+    "artist": "Amerie",
+    "release_year": 2002,
+    "genre": "hip hop",
+    "all_genres": [
+      "hip hop",
+      "black metal",
+      "jazz",
+      "doom metal",
+      "hardcore",
+      "melodic death metal",
+      "death metal",
+      "pop",
+      "rhythm and blues",
+      "metal",
+      "neo soul",
+      "motown",
+      "soul",
+      "easy listening"
+    ],
+    "description": "One of the most timeless and authentic > albums of the 2000s.  is the debut studio album by  > recording artist . It was released on July 30, 2002, through Columbia Records, Rise Entertainment and Richcraft Records. Entirely produced by  , the album debuted and peaked at number nine on the US Billboard 200 chart in August 2002, remaining in the top twenty for two weeks only and dropping off the top hundred in its fourteenth week. It also received generally mixed reviews from the > critics. Never",
+    "listeners": 209595,
+    "playcount": 1579482
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Why Don't We Fall In Love",
+        "track_number": 1,
+        "id": "07cf0a503d9d87a755785e09c61b1090",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 90,
+        "duration": "2:39",
+        "energy": 77,
+        "danceability": 55,
+        "happiness": 65,
+        "acousticness": 7,
+        "instrumentalness": 0,
+        "liveness": 5,
+        "speechiness": 10,
+        "loudness": "-7 dB"
+      },
+      {
+        "track_name": "Talkin' To Me (Edit) (Album Version)",
+        "track_number": 2,
+        "id": "affaa573abe3ceb28bd19f2a8b6f992a",
+        "key": "G#",
+        "mode": "minor",
+        "camelot": "1A",
+        "tempo": 90,
+        "duration": "3:55",
+        "energy": 41,
+        "danceability": 74,
+        "happiness": 73,
+        "acousticness": 11,
+        "instrumentalness": 0,
+        "liveness": 3,
+        "speechiness": 7,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "Nothing Like Loving You (Album Version)",
+        "track_number": 3,
+        "id": "5cbfd5f5211f2854f5df2a26ef5a814f",
+        "key": "G#",
+        "mode": "minor",
+        "camelot": "1A",
+        "tempo": 140,
+        "duration": "3:51",
+        "energy": 48,
+        "danceability": 74,
+        "happiness": 66,
+        "acousticness": 22,
+        "instrumentalness": 0,
+        "liveness": 12,
+        "speechiness": 4,
+        "loudness": "-8 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 67.67,
+        "min": 55,
+        "max": 74,
+        "range": 19,
+        "std": 10.97
+      },
+      "energy": {
+        "mean": 55.33,
+        "min": 41,
+        "max": 77,
+        "range": 36,
+        "std": 19.09
+      },
+      "acousticness": {
+        "mean": 13.33,
+        "min": 7,
+        "max": 22,
+        "range": 15,
+        "std": 7.77
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 7,
+        "min": 4,
+        "max": 10,
+        "range": 6,
+        "std": 3.0
+      },
+      "liveness": {
+        "mean": 6.67,
+        "min": 3,
+        "max": 12,
+        "range": 9,
+        "std": 4.73
+      },
+      "tempo": {
+        "mean": 106.67,
+        "min": 90,
+        "max": 140,
+        "range": 50,
+        "std": 28.87
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_037.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 1579482
+  },
+  "original_mbid": "29c7f5dc-125e-3dbd-926b-1f5eee15da18",
+  "url": "https://www.last.fm/music/Amerie/All+I+Have"
+}

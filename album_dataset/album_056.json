@@ -1,0 +1,129 @@
+{
+  "album_id": "056",
+  "metadata": {
+    "title": "Eaten Alive (Expanded Edition)",
+    "artist": "Diana Ross",
+    "release_year": 1985,
+    "genre": "pop soul",
+    "all_genres": [
+      "pop soul",
+      "downtempo",
+      "soft rock",
+      "vocal jazz",
+      "new wave",
+      "rock",
+      "pop",
+      "smooth jazz",
+      "disco",
+      "funk",
+      "motown",
+      "soul",
+      "easy listening"
+    ],
+    "description": "Eaten Alive is the sixteenth studio album by  >   , released on September 24, 1985, by RCA Records in the >, with EMI Records distributing elsewhere. It was ' fifth of six albums released by the label during the decade. Primarily written and produced by   of the Bee Gees, with co- from his brothers , , and , the album also includes a contribution from ' friend   who co-wrote and performed (uncredited) on the title track.\nEaten Alive was deemed a commercial failure in the US, where it peaked at N",
+    "listeners": 8002,
+    "playcount": 36838
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Eaten Alive",
+        "track_number": 1,
+        "id": "af3080d3def051b35c98bd387421e57e",
+        "key": "A#",
+        "mode": "minor",
+        "camelot": "3A",
+        "tempo": 129,
+        "duration": "3:53",
+        "energy": 87,
+        "danceability": 76,
+        "happiness": 97,
+        "acousticness": 12,
+        "instrumentalness": 0,
+        "liveness": 88,
+        "speechiness": 4,
+        "loudness": "-8 dB"
+      },
+      {
+        "track_name": "Experience",
+        "track_number": 3,
+        "id": "d1537d206b25377ccc4c3655c5522940",
+        "key": "Eb",
+        "mode": "major",
+        "camelot": "5B",
+        "tempo": 183,
+        "duration": "4:57",
+        "energy": 47,
+        "danceability": 47,
+        "happiness": 60,
+        "acousticness": 22,
+        "instrumentalness": 0,
+        "liveness": 11,
+        "speechiness": 3,
+        "loudness": "-12 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 61.5,
+        "min": 47,
+        "max": 76,
+        "range": 29,
+        "std": 20.51
+      },
+      "energy": {
+        "mean": 67,
+        "min": 47,
+        "max": 87,
+        "range": 40,
+        "std": 28.28
+      },
+      "acousticness": {
+        "mean": 17,
+        "min": 12,
+        "max": 22,
+        "range": 10,
+        "std": 7.07
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 3.5,
+        "min": 3,
+        "max": 4,
+        "range": 1,
+        "std": 0.71
+      },
+      "liveness": {
+        "mean": 49.5,
+        "min": 11,
+        "max": 88,
+        "range": 77,
+        "std": 54.45
+      },
+      "tempo": {
+        "mean": 156,
+        "min": 129,
+        "max": 183,
+        "range": 54,
+        "std": 38.18
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_056.jpg",
+  "ground_truth": {
+    "tier": 1,
+    "tier_label": "Underground/Cult",
+    "tier_description": "Small dedicated fanbase, very limited reach",
+    "playcount_range": "< 100K plays",
+    "actual_playcount": 36838
+  },
+  "original_mbid": "a8906aab-a212-3f03-a155-f636d8f8a24d",
+  "url": "https://www.last.fm/music/Diana+Ross/Eaten+Alive+(Expanded+Edition)"
+}

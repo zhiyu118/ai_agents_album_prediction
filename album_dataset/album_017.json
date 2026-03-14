@@ -1,0 +1,137 @@
+{
+  "album_id": "017",
+  "metadata": {
+    "title": "Taming the Tiger",
+    "artist": "Joni Mitchell",
+    "release_year": 1998,
+    "genre": "folk",
+    "all_genres": [
+      "folk",
+      "rock",
+      "folk rock"
+    ],
+    "description": " is the sixteenth studio album by the Canadian musician  . Released on September 29, 1998, through Reprise Records, it is the follow-up to the successful Turbulent Indigo (1994). The album was, at the time, widely believed to be her last of completely original material; this would be disproved with the release of Shine in 2007.\nContributors to  include   on > and   on saxophone. The album combines the > stylings of much of her work with a textured, >-esque , indebted to her use of the Roland VG-",
+    "listeners": 12359,
+    "playcount": 154571
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Harlem in Havana",
+        "track_number": 1,
+        "id": "3df79c756f58d87dbf7ecc8944405a8e",
+        "key": "D",
+        "mode": "major",
+        "camelot": "10B",
+        "tempo": 146,
+        "duration": "4:28",
+        "energy": 36,
+        "danceability": 60,
+        "happiness": 54,
+        "acousticness": 80,
+        "instrumentalness": 0,
+        "liveness": 11,
+        "speechiness": 5,
+        "loudness": "-9 dB"
+      },
+      {
+        "track_name": "Man From Mars",
+        "track_number": 2,
+        "id": "3b3c87fd2a6bc8806e022670dfbe8c60",
+        "key": "B",
+        "mode": "minor",
+        "camelot": "10A",
+        "tempo": 99,
+        "duration": "4:10",
+        "energy": 28,
+        "danceability": 59,
+        "happiness": 22,
+        "acousticness": 81,
+        "instrumentalness": 61,
+        "liveness": 16,
+        "speechiness": 3,
+        "loudness": "-13 dB"
+      },
+      {
+        "track_name": "Love Puts on a New Face",
+        "track_number": 3,
+        "id": "f5e5d1a772d2bf5b5b2e99eb58b2dd9f",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 112,
+        "duration": "3:46",
+        "energy": 18,
+        "danceability": 42,
+        "happiness": 22,
+        "acousticness": 90,
+        "instrumentalness": 0,
+        "liveness": 13,
+        "speechiness": 3,
+        "loudness": "-14 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 53.67,
+        "min": 42,
+        "max": 60,
+        "range": 18,
+        "std": 10.12
+      },
+      "energy": {
+        "mean": 27.33,
+        "min": 18,
+        "max": 36,
+        "range": 18,
+        "std": 9.02
+      },
+      "acousticness": {
+        "mean": 83.67,
+        "min": 80,
+        "max": 90,
+        "range": 10,
+        "std": 5.51
+      },
+      "instrumentalness": {
+        "mean": 20.33,
+        "min": 0,
+        "max": 61,
+        "range": 61,
+        "std": 35.22
+      },
+      "speechiness": {
+        "mean": 3.67,
+        "min": 3,
+        "max": 5,
+        "range": 2,
+        "std": 1.15
+      },
+      "liveness": {
+        "mean": 13.33,
+        "min": 11,
+        "max": 16,
+        "range": 5,
+        "std": 2.52
+      },
+      "tempo": {
+        "mean": 119,
+        "min": 99,
+        "max": 146,
+        "range": 47,
+        "std": 24.27
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_017.jpg",
+  "ground_truth": {
+    "tier": 2,
+    "tier_label": "Indie Success",
+    "tier_description": "Moderate indie following, some streaming presence",
+    "playcount_range": "100K - 1M plays",
+    "actual_playcount": 154571
+  },
+  "original_mbid": "1a2ff067-a2dd-4755-ad1f-66d39675b00a",
+  "url": "https://www.last.fm/music/Joni+Mitchell/Taming+the+Tiger"
+}

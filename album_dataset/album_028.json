@@ -1,0 +1,148 @@
+{
+  "album_id": "028",
+  "metadata": {
+    "title": "Ratatat",
+    "artist": "Ratatat",
+    "release_year": 2004,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "big beat",
+      "indie rock",
+      "downtempo",
+      "electropop",
+      "electronica",
+      "lounge",
+      "electronic rock",
+      "trip hop",
+      "electro",
+      "pop",
+      "experimental",
+      "indietronica",
+      "techno"
+    ],
+    "description": " is t's 2004 eponymous debut album. It was recorded between July 2001 and May 2003 in Mast's Crown Heights, Brooklyn apartment and mixed in June 2003 before its release in 2004. The album is essentially >, although it has occasional voice excerpts (referred to in the liner notes as \" interludes\") by local MC and rapper  rf. The track \"> Armada\" contains a  horn played by  . Other tracks of note are \"Germany to Germany\", later released as a single; and \"Cherry\", a homage to t's original . The mos",
+    "listeners": 416235,
+    "playcount": 9265345
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Seventeen Years",
+        "track_number": 1,
+        "id": "ed767774b943ac7c9ad9b97123ae4fb1",
+        "key": "F",
+        "mode": "major",
+        "camelot": "7B",
+        "tempo": 116,
+        "duration": "4:26",
+        "energy": 56,
+        "danceability": 94,
+        "happiness": 53,
+        "acousticness": 3,
+        "instrumentalness": 63,
+        "liveness": 17,
+        "speechiness": 7,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "El Pico",
+        "track_number": 2,
+        "id": "617cf000d8abcb24ccbd86c985025c33",
+        "key": "E",
+        "mode": "minor",
+        "camelot": "9A",
+        "tempo": 98,
+        "duration": "4:42",
+        "energy": 63,
+        "danceability": 73,
+        "happiness": 50,
+        "acousticness": 22,
+        "instrumentalness": 63,
+        "liveness": 12,
+        "speechiness": 4,
+        "loudness": "-6 dB"
+      },
+      {
+        "track_name": "Crips",
+        "track_number": 3,
+        "id": "246af8fd19b872c9c3aa60dc41c50eb1",
+        "key": "C#",
+        "mode": "minor",
+        "camelot": "12A",
+        "tempo": 103,
+        "duration": "3:48",
+        "energy": 45,
+        "danceability": 76,
+        "happiness": 87,
+        "acousticness": 12,
+        "instrumentalness": 89,
+        "liveness": 10,
+        "speechiness": 5,
+        "loudness": "-8 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 81,
+        "min": 73,
+        "max": 94,
+        "range": 21,
+        "std": 11.36
+      },
+      "energy": {
+        "mean": 54.67,
+        "min": 45,
+        "max": 63,
+        "range": 18,
+        "std": 9.07
+      },
+      "acousticness": {
+        "mean": 12.33,
+        "min": 3,
+        "max": 22,
+        "range": 19,
+        "std": 9.5
+      },
+      "instrumentalness": {
+        "mean": 71.67,
+        "min": 63,
+        "max": 89,
+        "range": 26,
+        "std": 15.01
+      },
+      "speechiness": {
+        "mean": 5.33,
+        "min": 4,
+        "max": 7,
+        "range": 3,
+        "std": 1.53
+      },
+      "liveness": {
+        "mean": 13,
+        "min": 10,
+        "max": 17,
+        "range": 7,
+        "std": 3.61
+      },
+      "tempo": {
+        "mean": 105.67,
+        "min": 98,
+        "max": 116,
+        "range": 18,
+        "std": 9.29
+      }
+    },
+    "num_tracks_retrieved": 3
+  },
+  "cover_path": "covers/album_028.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 9265345
+  },
+  "original_mbid": "8711e3f9-9b77-3c79-bdc6-c7920d5b891a",
+  "url": "https://www.last.fm/music/Ratatat/Ratatat"
+}

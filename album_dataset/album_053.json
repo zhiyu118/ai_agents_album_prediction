@@ -1,0 +1,131 @@
+{
+  "album_id": "053",
+  "metadata": {
+    "title": "Causers of This",
+    "artist": "Toro y Moi",
+    "release_year": 2010,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "freak folk",
+      "downtempo",
+      "electronica",
+      "lounge",
+      "synthpop",
+      "trip hop",
+      "experimental",
+      "indie pop",
+      "pop",
+      "indietronica",
+      "nu jazz",
+      "chillwave",
+      "folktronica",
+      "dream pop"
+    ],
+    "description": " is the debut album from the artist  y Moi, released on January 4, 2010, on Carpark Records.",
+    "listeners": 310670,
+    "playcount": 8170724
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Blessa",
+        "track_number": 1,
+        "id": "7e181bccb1ed39ded75cbc4d3a3a9cfe",
+        "key": "Eb",
+        "mode": "minor",
+        "camelot": "2A",
+        "tempo": 100,
+        "duration": "2:43",
+        "energy": 48,
+        "danceability": 49,
+        "happiness": 18,
+        "acousticness": 56,
+        "instrumentalness": 71,
+        "liveness": 12,
+        "speechiness": 4,
+        "loudness": "-10 dB"
+      },
+      {
+        "track_name": "Imprint After",
+        "track_number": 3,
+        "id": "40fe29f7682683274047f5b2b2e8df2e",
+        "key": "A",
+        "mode": "minor",
+        "camelot": "8A",
+        "tempo": 150,
+        "duration": "3:04",
+        "energy": 77,
+        "danceability": 56,
+        "happiness": 56,
+        "acousticness": 48,
+        "instrumentalness": 37,
+        "liveness": 10,
+        "speechiness": 4,
+        "loudness": "-8 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 52.5,
+        "min": 49,
+        "max": 56,
+        "range": 7,
+        "std": 4.95
+      },
+      "energy": {
+        "mean": 62.5,
+        "min": 48,
+        "max": 77,
+        "range": 29,
+        "std": 20.51
+      },
+      "acousticness": {
+        "mean": 52,
+        "min": 48,
+        "max": 56,
+        "range": 8,
+        "std": 5.66
+      },
+      "instrumentalness": {
+        "mean": 54,
+        "min": 37,
+        "max": 71,
+        "range": 34,
+        "std": 24.04
+      },
+      "speechiness": {
+        "mean": 4,
+        "min": 4,
+        "max": 4,
+        "range": 0,
+        "std": 0.0
+      },
+      "liveness": {
+        "mean": 11,
+        "min": 10,
+        "max": 12,
+        "range": 2,
+        "std": 1.41
+      },
+      "tempo": {
+        "mean": 125,
+        "min": 100,
+        "max": 150,
+        "range": 50,
+        "std": 35.36
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_053.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 8170724
+  },
+  "original_mbid": "08cf49a0-6560-47be-97d2-96bfe90a8bbc",
+  "url": "https://www.last.fm/music/Toro+y+Moi/Causers+of+This"
+}

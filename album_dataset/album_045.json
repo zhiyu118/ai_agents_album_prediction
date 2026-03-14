@@ -1,0 +1,134 @@
+{
+  "album_id": "045",
+  "metadata": {
+    "title": "Cherry Tree",
+    "artist": "The National",
+    "release_year": 2004,
+    "genre": "ambient",
+    "all_genres": [
+      "ambient",
+      "indie pop",
+      "folktronica",
+      "indie rock",
+      "art rock",
+      "downtempo",
+      "pop",
+      "slowcore",
+      "alternative rock",
+      "country",
+      "soft rock",
+      "soundtrack",
+      "easy listening",
+      "alternative country",
+      "electronica",
+      "lounge",
+      "death metal",
+      "rock"
+    ],
+    "description": " is an EP by the > > band , released in July 2004. It was reissued on June 28, 2011, by Brassland Records, the same label on which it was originally released. \"Murder Me Rachael\" is a live version taken from a Black Sessions recording, while \"Reasonable Man (I Don't Mind)\" is a song featuring  ome. In addition to CD,  was originally released on limited edition red-colored 10\" vinyl by Shake It!, a record shop in the band members hometown of Cincinnati, Ohio. It has since had numerous repressings",
+    "listeners": 381846,
+    "playcount": 4732122
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Wasp Nest",
+        "track_number": 1,
+        "id": "d75804debe8d47b1d0d39269517dae0f",
+        "key": "F",
+        "mode": "major",
+        "camelot": "7B",
+        "tempo": 84,
+        "duration": "3:22",
+        "energy": 37,
+        "danceability": 50,
+        "happiness": 23,
+        "acousticness": 61,
+        "instrumentalness": 0,
+        "liveness": 8,
+        "speechiness": 3,
+        "loudness": "-13 dB"
+      },
+      {
+        "track_name": "All Dolled-Up in Straps",
+        "track_number": 3,
+        "id": "dcf06d171bf5ccdcbcc8201ffa060726",
+        "key": "Ab",
+        "mode": "major",
+        "camelot": "4B",
+        "tempo": 142,
+        "duration": "4:11",
+        "energy": 34,
+        "danceability": 43,
+        "happiness": 19,
+        "acousticness": 38,
+        "instrumentalness": 89,
+        "liveness": 13,
+        "speechiness": 3,
+        "loudness": "-14 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 46.5,
+        "min": 43,
+        "max": 50,
+        "range": 7,
+        "std": 4.95
+      },
+      "energy": {
+        "mean": 35.5,
+        "min": 34,
+        "max": 37,
+        "range": 3,
+        "std": 2.12
+      },
+      "acousticness": {
+        "mean": 49.5,
+        "min": 38,
+        "max": 61,
+        "range": 23,
+        "std": 16.26
+      },
+      "instrumentalness": {
+        "mean": 44.5,
+        "min": 0,
+        "max": 89,
+        "range": 89,
+        "std": 62.93
+      },
+      "speechiness": {
+        "mean": 3,
+        "min": 3,
+        "max": 3,
+        "range": 0,
+        "std": 0.0
+      },
+      "liveness": {
+        "mean": 10.5,
+        "min": 8,
+        "max": 13,
+        "range": 5,
+        "std": 3.54
+      },
+      "tempo": {
+        "mean": 113,
+        "min": 84,
+        "max": 142,
+        "range": 58,
+        "std": 41.01
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_045.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 4732122
+  },
+  "original_mbid": "028e35c0-86bb-33c0-93ec-7c38da8ecd7e",
+  "url": "https://www.last.fm/music/The+National/Cherry+Tree"
+}

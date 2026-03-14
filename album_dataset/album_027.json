@@ -1,0 +1,124 @@
+{
+  "album_id": "027",
+  "metadata": {
+    "title": "Are We There",
+    "artist": "Sharon Van Etten",
+    "release_year": 2014,
+    "genre": "rock and roll",
+    "all_genres": [
+      "rock and roll",
+      "downtempo",
+      "orchestra",
+      "indie folk",
+      "pop",
+      "soundtrack",
+      "folk",
+      "soul"
+    ],
+    "description": " is the fourth studio album by the  >   . It was released on May 27, 2014  Jagjaguwar.\n\n",
+    "listeners": 365953,
+    "playcount": 5635382
+  },
+  "audio_features": {
+    "tracks": [
+      {
+        "track_name": "Afraid of Nothing",
+        "track_number": 1,
+        "id": "a4342fa2138149bb78e6723d90ac9f44",
+        "key": "G",
+        "mode": "major",
+        "camelot": "9B",
+        "tempo": 92,
+        "duration": "4:05",
+        "energy": 34,
+        "danceability": 15,
+        "happiness": 4,
+        "acousticness": 83,
+        "instrumentalness": 0,
+        "liveness": 8,
+        "speechiness": 3,
+        "loudness": "-9 dB"
+      },
+      {
+        "track_name": "Your Love Is Killing Me",
+        "track_number": 3,
+        "id": "b9717c51d8bfe40bec51562496310502",
+        "key": "C",
+        "mode": "major",
+        "camelot": "8B",
+        "tempo": 126,
+        "duration": "2:40",
+        "energy": 87,
+        "danceability": 68,
+        "happiness": 37,
+        "acousticness": 17,
+        "instrumentalness": 0,
+        "liveness": 12,
+        "speechiness": 6,
+        "loudness": "-5 dB"
+      }
+    ],
+    "summary_stats": {
+      "danceability": {
+        "mean": 41.5,
+        "min": 15,
+        "max": 68,
+        "range": 53,
+        "std": 37.48
+      },
+      "energy": {
+        "mean": 60.5,
+        "min": 34,
+        "max": 87,
+        "range": 53,
+        "std": 37.48
+      },
+      "acousticness": {
+        "mean": 50,
+        "min": 17,
+        "max": 83,
+        "range": 66,
+        "std": 46.67
+      },
+      "instrumentalness": {
+        "mean": 0,
+        "min": 0,
+        "max": 0,
+        "range": 0,
+        "std": 0.0
+      },
+      "speechiness": {
+        "mean": 4.5,
+        "min": 3,
+        "max": 6,
+        "range": 3,
+        "std": 2.12
+      },
+      "liveness": {
+        "mean": 10,
+        "min": 8,
+        "max": 12,
+        "range": 4,
+        "std": 2.83
+      },
+      "tempo": {
+        "mean": 109,
+        "min": 92,
+        "max": 126,
+        "range": 34,
+        "std": 24.04
+      }
+    },
+    "num_tracks_retrieved": 2
+  },
+  "cover_path": "covers/album_027.jpg",
+  "ground_truth": {
+    "tier": 3,
+    "tier_label": "Moderate Hit",
+    "tier_description": "Solid commercial success, genre recognition",
+    "playcount_range": "1M - 10M plays",
+    "actual_playcount": 5635382
+  },
+  "original_mbid": "294ce5a9-a36b-4e41-982e-56f2f94bb581",
+  "url": "https://www.last.fm/music/Sharon+Van+Etten/Are+We+There"
+}
